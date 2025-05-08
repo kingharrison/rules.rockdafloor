@@ -40,12 +40,13 @@
 ## Intro
 
 The Intro level has all the same skill recognitions as beginner, but is only open to athletes that are within their first year of breaking. 
-Top Rocks - All Top Rocks must have the hips and shoulders facing the same direction during the movement. Recognition is limited to variations of steps and entrances.
-Transitions - All transitions must remain in contact with the ground.
-Footwork - Can be performed flat handed.
-Power Move - Should maintain contact with the ground
-* May rotate continuously on parts of the torso
-* May alternate between 4 points of contact with the ground
+
+* Top Rocks: All Top Rocks must have the hips and shoulders facing the same direction during the movement. Recognition is limited to variations of steps and entrances.
+* Transitions - All transitions must remain in contact with the ground.
+* Footwork - Can be performed flat handed.
+* Power Move - Should maintain contact with the ground
+	- May rotate continuously on parts of the torso
+	- May alternate between 4 points of contact with the ground
 Freeze - If inverted must have 3 points of contact with the ground, max 2 stacks
 Acro - Must retain physical contact with the surface at all times with no spring motion allowed
 Cypher Compulsory Round -
