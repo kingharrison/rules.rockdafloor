@@ -5,7 +5,6 @@
 <br/>
 
 <div align="center">
-	<h3 align="center">Rock Da Floor (RDF) Battle Rules</h3>
 	<p align="center">
 		This is a source of truth for all rules pertaining to hosting an RDF Battle. 
 		<br/>
@@ -18,8 +17,9 @@
 
 - [General Rules](#general)
     - [Safety](#safety)
+    - [Skill Recognition](#skill-recognition)
     - [Cypher](#cypher)
-    - [Brackers](#brackets)
+    - [Brackets](#brackets)
 - [Intro](#intro)
 - [Beginner](#beginner)
 - [Intermediate](#intermediate)
@@ -27,15 +27,91 @@
 - [Elite](#elite)
 
 
-## General Rules :art:
+## General Rules
 
 ### Safety
 
-[Black Ops One](https://fonts.google.com/specimen/Black+Ops+One) - Text Style
-
-<img alt="Font Example Screenshot" src="src/screenshots/font.png">
+### Skill Recognition
 
 ### Cypher
+
+### Brackets
+
+## Intro (One Year Or Less In Breaking)
+
+The Intro level has all the same skill recognitions as beginner, but is only open to athletes that are within their first year of breaking. 
+Top Rocks - All Top Rocks must have the hips and shoulders facing the same direction during the movement. Recognition is limited to variations of steps and entrances.
+Transitions - All transitions must remain in contact with the ground.
+Footwork - Can be performed flat handed.
+Power Move - Should maintain contact with the ground
+* May rotate continuously on parts of the torso
+* May alternate between 4 points of contact with the ground
+Freeze - If inverted must have 3 points of contact with the ground, max 2 stacks
+Acro - Must retain physical contact with the surface at all times with no spring motion allowed
+Cypher Compulsory Round -
+Beginner Compulsory routine DEMO
+1. Top Rocks - 1 eight each of 2 different types of toprocks.
+2. Transition - Corkscrew
+3. Footwork - Four shootouts
+4. Power Move - Booty Spin
+5. Freeze - Scorpion Freeze
+
+## Beginner
+
+Top Rocks - All Top Rocks must have the hips and shoulders facing the same direction during the movement. Recognition is limited to variations of steps and entrances.
+Transitions - All transitions must remain in contact with the ground.
+Footwork - Can be performed flat handed.
+Power Move - Should maintain contact with the ground
+* May rotate continuously on parts of the torso
+* May alternate between 4 points of contact with the ground
+Freeze - If inverted must have 3 points of contact with the ground, max 2 stacks
+Acro - Must retain physical contact with the surface at all times with no spring motion allowed
+Cypher Compulsory Round -
+Beginner Compulsory routine DEMO
+1. Top Rocks - 1 eight each of 2 different types of toprocks.
+2. Transition - Corkscrew
+3. Footwork - Four shootouts
+4. Power Move - Booty Spin
+5. Freeze - Scorpion Freeze
+   
+## Intermediate
+
+Top Rocks - Hips and shoulders can face different directions. Higher level variations of steps and entrances are recognized.
+Transitions - Transitions can leave the ground.
+Footwork - Looking to be performed up on the knuckles.
+Power Move - All power moves recognized up to one and a quarter revolution. Pauses in between spins will allow more recognition.
+Freeze - When inverted can have two points of contact with the ground.
+Acro - Can alternate between hands and feet.
+Finals Round 1 Compulsory - DEMO
+1. Intermediate Compulsory routine
+2. Two Front Rocks, Two Indian Steps
+3. Transition to floor
+4. Minimum sixstep, two CC’s, one frosty freezes in both directions,
+5. Minimum one and ½ sixstep into chair freeze.
+
+## Advanced
+
+Top Rocks - Hips and shoulders can face different directions. Higher level variations of steps and entrances are recognized.
+Transitions - Transitions can leave the ground.
+Footwork - Looking to be performed up on the knuckles.
+Power Move - No limitations
+Freeze - Can have one point of contact
+Acro - Acro up to one flip and two twists, in any combination
+
+## Elite
+
+Top Rocks - Hips and shoulders can face different directions. Higher level variations of steps and entrances are recognized.
+Transitions - Transitions can leave the ground.
+Footwork - Looking to be performed up on the knuckles.
+Power Move - No limitations
+Freeze - Can have one point of contact
+Acro - Acro up to one flip and two twists, in any combination
+
+
+
+
+
+
 
 - **Gunmetal** - Primary theme color
 - **Yellow Orange Color Wheel** - Secondary theme color
