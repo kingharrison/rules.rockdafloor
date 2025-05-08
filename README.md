@@ -37,7 +37,7 @@
 
 ### Brackets
 
-## Intro (One Year Or Less In Breaking)
+## Intro
 
 The Intro level has all the same skill recognitions as beginner, but is only open to athletes that are within their first year of breaking. 
 Top Rocks - All Top Rocks must have the hips and shoulders facing the same direction during the movement. Recognition is limited to variations of steps and entrances.
