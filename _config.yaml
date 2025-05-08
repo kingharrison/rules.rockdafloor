@@ -3,3 +3,5 @@ plugins:
 - jekyll-remote-theme
 title: Rock Da Floor (RDF) Battle Rules
 description: Main Source Of Truth Document For All Battle Rules
+footer:
+    copyright:      King III Solutions, Inc <a href="https://k3s.com/">www.k3s.com</a>
