@@ -10,31 +10,13 @@
 		This is a source of truth for all rules pertaining to hosting an RDF Battle. 
 		<br/>
 	</p>
-	<p>
-		<img src="https://img.shields.io/github/contributors/JayantGoel001/JayantGoel001.github.io.svg?styles/default/yes.svg" alt="Contributors"/> • 
-		<img src="https://img.shields.io/github/forks/JayantGoel001/JayantGoel001.github.io.svg?styles/default/yes.svg" alt="Forks"/> • 
-		<img src="https://img.shields.io/github/stars/JayantGoel001/JayantGoel001.github.io.svg?styles/default/yes.svg" alt="Stars"/> •
-		<img src="https://img.shields.io/github/issues/JayantGoel001/JayantGoel001.github.io.svg?styles/default/yes.svg" alt="Issues"/> •
-		<img alt="Repo Size" src="https://img.shields.io/github/repo-size/JayantGoel001/JayantGoel001.github.io"/>
-	</p>
-	<p>
-		<img alt="Github Deployment Status" src="https://github.com/JayantGoel001/JayantGoel001.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages&dummy=unused"/> •
-		<img src="https://github.com/JayantGoel001/JayantGoel001.github.io/actions/workflows/publish-docker.yml/badge.svg?dummy=unused" alt="Docker Image Status"/>
-	</p>
 </div>
 
 <br/>
 
-<p align="center">
-  <a href="https://JayantGoel001.github.io/">
-    <img src="src/screenshots/screenshot.gif" alt="landing page"/>
-  </a>
-</p>
+## Table of Contents
 
-
-## Table of Contents :scroll:
-
-- [General Rules](#design-art)
+- [General Rules](#general)
     - [Safety](#safety)
     - [Cypher](#cypher)
     - [Brackers](#brackets)
