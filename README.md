@@ -19,9 +19,9 @@
 	<a href="https://github.com/JayantGoel001/JayantGoel001.github.io">
 		<img src="src/screenshots/icon.png" alt="Logo" width="80" height="80"/>
 	</a>
-	<h3 align="center">Jayant Goel (JayantGoel001)'s Personal Portfolio</h3>
+	<h3 align="center">Rock Da Floor (RDF) Battle Rules</h3>
 	<p align="center">
-		This is the source code for my Personal Portfolio.
+		This is a source of truth for all rules pertaining to hosting an RDF Battle. 
 		<br/>
 		<a href="https://github.com/JayantGoel001/JayantGoel001.github.io"><strong>Explore the docs »</strong></a>
 		<br/>
