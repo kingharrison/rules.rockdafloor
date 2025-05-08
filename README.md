@@ -33,6 +33,9 @@
 
 ### Skill Recognition
 
+Each skill level is defined by specific criteria and only skills within the designated level are recognized. Performing a skill above the assigned level does not result in a penalty; however, judges are instructed to disregard the move as if it had not occurred.
+Example: If a competitor registers for the Beginner level and performs Air Flares, the judges will not acknowledge the move. While the audience may react positively, and even the judges may appreciate the difficulty of the skill, it will hold no value in determining who wins. For judging purposes, the competitor’s performance during the execution of the Air Flares is equivalent to standing still. As a result, a competitor who demonstrates skills aligned with the Beginner level will have a competitive advantage and be more likely to win the battle.
+
 ### Cypher
 
 ### Brackets
