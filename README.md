@@ -5,21 +5,10 @@
 <br/>
 
 <div align="center">
-	<a href="https://github.com/JayantGoel001/JayantGoel001.github.io">
-		<img src="src/screenshots/icon.png" alt="Logo" width="80" height="80"/>
-	</a>
 	<h3 align="center">Rock Da Floor (RDF) Battle Rules</h3>
 	<p align="center">
 		This is a source of truth for all rules pertaining to hosting an RDF Battle. 
 		<br/>
-		<a href="https://github.com/JayantGoel001/JayantGoel001.github.io"><strong>Explore the docs »</strong></a>
-		<br/>
-		<br/>
-		<a href="https://jayantgoel001.github.io/">View Demo</a>
-		·
-		<a href="https://github.com/JayantGoel001/JayantGoel001.github.io/issues/new?assignees=JayantGoel001&labels=bug&template=bug_report.yml&title=%5BBUG%5D%3A+">Report Bug</a>
-		·
-		<a href="https://github.com/JayantGoel001/JayantGoel001.github.io/issues/new?assignees=&labels=enhancement&template=feature_request.yml&title=%5BFEAT%5D%3A+">Request Feature</a>
 	</p>
 	<p>
 		<img src="https://img.shields.io/github/contributors/JayantGoel001/JayantGoel001.github.io.svg?styles/default/yes.svg" alt="Contributors"/> • 
@@ -45,33 +34,26 @@
 
 ## Table of Contents :scroll:
 
-- [Design](#design-art)
-    - [Fonts](#fonts)
-    - [Color Scheme](#color-scheme)
-    - [Icon](#icon)
-- [Built With](#built-with-package)
-- [How to Run Locally?](#how-to-run-locally-dart)
-- [Sections](#sections-bookmark)
-- [Folder Structure](#folder-structure-open_file_folder)
-- [Search engine optimization(SEO)](#search-engine-optimizationseo-spider)
-- [PageSpeed Insights](#pagespeed-insights)
-- [Creator / Maintainer](#creator--maintainer-man_technologist)
-- [Contributing](#-contributing)
-- [Contributors](#contributors-)
-- [License](#-license)
+- [General Rules](#design-art)
+    - [Safety](#safety)
+    - [Cypher](#cypher)
+    - [Brackers](#brackets)
+- [Intro](#intro)
+- [Beginner](#beginner)
+- [Intermediate](#intermediate)
+- [Advanced](#advanced)
+- [Elite](#elite)
 
 
-## Design :art:
+## General Rules :art:
 
-### Fonts
+### Safety
 
 [Black Ops One](https://fonts.google.com/specimen/Black+Ops+One) - Text Style
 
 <img alt="Font Example Screenshot" src="src/screenshots/font.png">
 
-### Color Scheme
-
-#### Main Screen
+### Cypher
 
 - **Gunmetal** - Primary theme color
 - **Yellow Orange Color Wheel** - Secondary theme color
@@ -88,7 +70,7 @@
 <br/>
 <br/>
 
-#### Splash Screen & 404 Page
+### Brackets
 
 - **Rich Black FOGRA 39** - Background Color of Splash Screen
 - **Smoky Black** - Path of Splash Circle of Splash Screen
@@ -100,37 +82,9 @@
   <img alt="Color Palette Screenshot" src="src/screenshots/color-loader-404.png"/>
 </a>
 
-### Icon
-
-This is the Favicon of me in [JayantGoel001.github.io](https://JayantGoel001.github.io)
-
-<img alt="Me Icon" src="src/screenshots/icon.png" width="192"/>
-
-Insert the following code in the `<head>` section of your pages to support favicons on all browsers and platforms.
-
-```html
-<meta name="theme-color" content="#242a35">
-<link rel="manifest" href="manifest.webmanifest">
-<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
-<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-<link rel="mask-icon" href="assets/images/safari-pinned-tab.svg" color="#242a35">
-<meta name="msapplication-TileColor" content="#242a35">
-<meta name="msapplication-TileImage" content="assets/images/mstile-70x70.png">
-<meta name="msapplication-TileImage" content="assets/images/mstile-144x144.png">
-<meta name="msapplication-TileImage" content="assets/images/mstile-150x150.png">
-<meta name="msapplication-TileImage" content="assets/images/mstile-310x150.png">
-<meta name="msapplication-TileImage" content="assets/images/mstile-310x310.png">
-```
-
-Results :- [100%](https://realfavicongenerator.net/favicon_checker?protocol=https&site=jayantgoel001.github.io)
-
-These are the Font Awesome Icons used in [JayantGoel001.github.io](https://JayantGoel001.github.io)
-
-<img alt="Font Awesome Icon" src="src/screenshots/font-awesome-icon.png"/>
 
 
-## Built With :package:
+## Intro (One Year Or Less In Breaking) :package:
 
 - 💙 [HTML5](https://www.w3schools.com/html/)
 - 💜 [CSS3](https://www.w3schools.com/css/)
