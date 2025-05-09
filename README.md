@@ -34,9 +34,9 @@
 
 Below are links to the RDF documents to help prepare and run a battle. 
 
-* [Cypher Prelim Judges Sheet]() - Use this sheet to judge all dancers within the cypher prelims. Judges may go by whole numbers 1-10, half numbers 1-10 (6.5, 7.5, etc..), or one decimal place (9.4, 8.2, etc). 
-* [Bracket Sheet] () - Bracket sheets are built to be in segments of 8. Fill in 
-* [Battle Plan Sheet]()
+* [Cypher Prelim Judges Sheet](https://rules.rdfbattles.com/Cypher_Prelims_Judges_Form.pdf) - Use this sheet to judge all dancers within the cypher prelims. Judges may go by whole numbers 1-10, half numbers 1-10 (6.5, 7.5, etc..), or one decimal place (9.4, 8.2, etc). 
+* [Bracket Sheet] (https://rules.rdfbattles.com/Top_8_Bracket.pdf) - Bracket sheets are built to be in segments of 8. Fill in 
+* [Battle Plan Sheet](https://rules.rdfbattles.com/Battle_Plan.pdf)
 
 ### Safety
 
