@@ -19,6 +19,7 @@
     - [Safety](#safety)
     - [Skill Recognition](#skill-recognition)
     - [Cypher](#cypher)
+    - [Prelims](#prelims)
     - [Brackets](#brackets)
 - [Intro](#intro)
 - [Beginner](#beginner)
@@ -29,6 +30,14 @@
 
 ## General Rules
 
+### Documents
+
+Below are links to the RDF documents to help prepare and run a battle. 
+
+* [Cypher Prelim Judges Sheet]() - Use this sheet to judge all dancers within the cypher prelims. Judges may go by whole numbers 1-10, half numbers 1-10 (6.5, 7.5, etc..), or one decimal place (9.4, 8.2, etc). 
+* [Bracket Sheet] () - Bracket sheets are built to be in segments of 8. Fill in 
+* [Battle Plan Sheet]()
+
 ### Safety
 
 ### Skill Recognition
@@ -37,6 +46,12 @@ Each skill level is defined by specific criteria and only skills within the desi
 Example: If a competitor registers for the Beginner level and performs Air Flares, the judges will not acknowledge the move. While the audience may react positively, and even the judges may appreciate the difficulty of the skill, it will hold no value in determining who wins. For judging purposes, the competitor’s performance during the execution of the Air Flares is equivalent to standing still. As a result, a competitor who demonstrates skills aligned with the Beginner level will have a competitive advantage and be more likely to win the battle.
 
 ### Cypher
+
+Every Cypher must provide a smooth safe surface for each dancer to safely perform any breaking move. The area must be clear of all obstructions and have a defined and easily understood outer barrier where the dancers know they can perform and the audience knows to stay out. The Cypher must have an area at least 12' by 12'. 
+
+### Prelims
+
+All dancers within a level will perform, one by one and organized by a list managed by the Cypher MC, in front of the judges. The judges will 
 
 ### Brackets
 
