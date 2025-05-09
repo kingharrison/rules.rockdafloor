@@ -45,15 +45,19 @@ Example: If a competitor registers for the Beginner level and performs Air Flar
 The Intro level has all the same skill recognitions as beginner, but is only open to athletes that are within their first year of breaking. 
 
 * Top Rocks: All Top Rocks must have the hips and shoulders facing the same direction during the movement. Recognition is limited to variations of steps and entrances.
-* Transitions - All transitions must remain in contact with the ground.
-* Footwork - Can be performed flat handed.
-* Power Move - Should maintain contact with the ground
+* Transitions: All transitions must remain in contact with the ground.
+* Footwork: Can be performed flat handed.
+* Power Move: Should maintain contact with the ground
 	- May rotate continuously on parts of the torso
 	- May alternate between 4 points of contact with the ground
-Freeze - If inverted must have 3 points of contact with the ground, max 2 stacks
-Acro - Must retain physical contact with the surface at all times with no spring motion allowed
-Cypher Compulsory Round -
-Beginner Compulsory routine DEMO
+* Freeze: If inverted must have 3 points of contact with the ground, max 2 stacks
+* Acro: Must retain physical contact with the surface at all times with no spring motion allowed
+
+### Cypher Compulsory Round 
+
+The Intro and Beginner levels have a compulsory routine for when they do their cypher pre-lims. This routine will be completed within the cypher pre-lims, and following the completion the dancer may choose to do any other moves they choose. 
+
+Beginner Compulsory Routine [DEMO](https://www.youtube.com/watch?v=wqQAVLUL_ZE)
 1. Top Rocks - 1 eight each of 2 different types of toprocks.
 2. Transition - Corkscrew
 3. Footwork - Four shootouts
