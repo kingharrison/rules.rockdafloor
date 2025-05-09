@@ -18,6 +18,8 @@
 - [General Rules](#general)
     - [Safety](#safety)
     - [Skill Recognition](#skill-recognition)
+    - [Divisions](#divisions)
+    - [Number Of Dancers](#number-of-dancers)
     - [Cypher](#cypher)
     - [Prelims](#prelims)
     - [Brackets](#brackets)
@@ -30,20 +32,38 @@
 
 ## General Rules
 
+In the interest of growing Breaking to include as many dancers as possible and giving each dancer a chance to compete, it is important to know ;laskdfja;lksd;aljskdf
+
 ### Documents
 
 Below are links to the RDF documents to help prepare and run a battle. 
 
-* [Cypher Prelim Judges Sheet](https://rules.rdfbattles.com/Cypher_Prelims_Judges_Form.pdf) - Use this sheet to judge all dancers within the cypher prelims. Judges may go by whole numbers 1-10, half numbers 1-10 (6.5, 7.5, etc..), or one decimal place (9.4, 8.2, etc). 
-* [Bracket Sheet] (https://rules.rdfbattles.com/Top_8_Bracket.pdf) - Bracket sheets are built to be in segments of 8. Fill in 
-* [Battle Plan Sheet](https://rules.rdfbattles.com/Battle_Plan.pdf)
+* [Cypher Prelim Judges Form PDF](https://rules.rdfbattles.com/Cypher_Prelims_Judges_Form.pdf) - Use this sheet to judge all dancers within the cypher prelims. Judges may go by whole numbers 1-10, half numbers 1-10 (6.5, 7.5, etc..), or one decimal place (9.4, 8.2, etc). 
+* [Top 8 Bracket PDF](https://rules.rdfbattles.com/Top_8_Bracket.pdf) - Bracket sheets are built to be in segments of 8. 
+* [Battle Plan PDF](https://rules.rdfbattles.com/Battle_Plan.pdf) - A Battle Plan is to help dancers learn to organize their skills to use for all battles. It is not meant to be a hard script, but more a dynamic template as dancers progress and learn how to use their moves as the times that make the most impact. 
 
 ### Safety
 
 ### Skill Recognition
 
 Each skill level is defined by specific criteria and only skills within the designated level are recognized. Performing a skill above the assigned level does not result in a penalty; however, judges are instructed to disregard the move as if it had not occurred.
+
 Example: If a competitor registers for the Beginner level and performs Air Flares, the judges will not acknowledge the move. While the audience may react positively, and even the judges may appreciate the difficulty of the skill, it will hold no value in determining who wins. For judging purposes, the competitor’s performance during the execution of the Air Flares is equivalent to standing still. As a result, a competitor who demonstrates skills aligned with the Beginner level will have a competitive advantage and be more likely to win the battle.
+
+### Divisions
+
+Dancers will be divided up into their respoective skill level and age level. Ages can always compete up, but never down. Gender splits may occur at the Battle Hosts preference if there are at least 4 dancers to support each split. 
+
+* Lil Breakers: Age 5-7
+* Youth: Age 7-13
+* Teen: Age 13-18
+
+### Number Of Dancers
+
+The minimum amount of dancers within a level and division to run a Cypher prelims and Top 8 Bracket is 4. If you have less than 4 dancers, you may use alternative methods to determine your placements in battle. 
+
+* 3 Dancers Suggestion - Use a Round Robin approach (each dancer battles the other two) to determine placements. 
+* 2 Dancers Suggestion - Use a multi battle strategy where they can compete for best of 3 battles.
 
 ### Cypher
 
@@ -51,9 +71,33 @@ Every Cypher must provide a smooth safe surface for each dancer to safely perfor
 
 ### Prelims
 
-All dancers within a level will perform, one by one and organized by a list managed by the Cypher MC, in front of the judges. The judges will 
+All dancers within a level will perform, one by one and organized by a list managed by the Cypher MC, in front of the judges. The judges will assign a value of 1-10 (using halfs or decimals depending on how many dancers are competing) to each dancer as they perform. These values are added up, and the dancers are organized from highest to smallest total. Where the dancer falls within that list determines their ranking for brackets. The dancer with the highest prelim score will be the #1 seed. The second highest score would be the #2 seed. If there were 20 dancers that are competing the lowest scored dancer would be the #20 seed. 
 
 ### Brackets
+
+All dancers within a level and age group will be divided into their own Top 8 Bracket. The bracket positions will be decided based on the dancers seeding from prelims. When looking at the bracket you will see the top see (#1 seed) will first battle the lowest seed (#8). The second seed (#2 seed) will battle the second lowest seed (#7). This rewards each seed by placing the highest performing dancer and giving them the statistically 'easiest path' to the finals, and sets up the final battle to be the most competitive. 
+
+#### Byes
+
+If there are not enough division to fill a bracket, you will use 'byes' to fill in the lowest seeded spots. 
+
+**Example**
+
+There are 6 dancers within a division. Seed #7 and seed #8 will be filled in as 'byes' on the Top 8 Bracket form. This means seed #1 and seed #2 get a bye on Round 1, and immediately make it to the Semi Finals. 
+
+#### Multiple Brackets For Same Level And Division
+
+If there is more than 8 dancers within a level and division you will be creating multiple Top 8 Brackets for dancers to compete in. How the brackets are divded is listed below:
+
+*  9 dancers - The 'A' Bracket will get 5 dancers and the 'B' Bracket will get 4 dancers
+* 10 dancers - The 'A' Bracket will get 5 dancers and the 'B' Bracket will get 5 dancers
+* 11 dancers - The 'A' Bracket will get 6 dancers and the 'B' Bracket will get 5 dancers
+* 12 dancers - The 'A' Bracket will get 6 dancers and the 'B' Bracket will get 6 dancers
+* 13 dancers - The 'A' Bracket will get 7 dancers and the 'B' Bracket will get 6 dancers
+* 14 dancers - The 'A' Bracket will get 7 dancers and the 'B' Bracket will get 7 dancers
+* 15 dancers - The 'A' Bracket will get 8 dancers and the 'B' Bracket will get 7 dancers
+* 16 dancers - The 'A' Bracket will get 8 dancers and the 'B' Bracket will get 8 dancers
+* 17 dancers - At this point there is always enough to fill the 'A' Bracket. You will fill the 'A' Bracket with the Top 8 seeds, and then divide the rest of the dancers between a 'B' and 'C' bracket. If there were enough dancers to always fill the 'B' Bracket as well (24+ dancers), you would always fill the 'A' and 'B' Brackets, and divide the dancers between a 'C' and 'D' bracket. This pattern continues on as the amount of dancers grow. 
 
 ## Intro
 
