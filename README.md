@@ -2,17 +2,6 @@
 	<a href="https://rdfbattles.com/">RDF Battle Rules</a>: v2025-2026
 </h1>
 
-<br/>
-
-<div align="center">
-	<p align="center">
-		This is a source of truth for all rules pertaining to hosting an RDF Battle. 
-		<br/>
-	</p>
-</div>
-
-<br/>
-
 ## Table of Contents
 
 - [General Rules](#general)
