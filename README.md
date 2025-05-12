@@ -17,7 +17,7 @@
 	- [Beginner](#beginner)
 	- [Intermediate](#intermediate)
 	- [Advanced](#advanced)
-	- [Elite](#elite)
+	- [Pro](#pro)
 
 
 ## General Rules
@@ -193,7 +193,7 @@ Battle Rounds Up To 45 Seconds
 * Freeze: Can have one point of contact
 * Acro: Acro up to one flip with no twists
 
-### Elite
+### Pro
 
 Battle Rounds Up To One Minute
 
