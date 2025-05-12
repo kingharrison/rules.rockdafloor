@@ -70,6 +70,7 @@ Dancers will be divided up into their respoective skill level and age level. Age
 * Lil Breakers: Age 5-7
 * Youth: Age 7-13
 * Teen: Age 13-18
+* Adult: Age 18+
 
 ### Number Of Dancers
 
