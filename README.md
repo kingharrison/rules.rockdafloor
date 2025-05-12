@@ -53,6 +53,8 @@ Proper attire is also essential to safety. Because every dancer’s style and mo
 
 Each dancer is responsible for ensuring that their attire supports freedom of movement while minimizing the risk of entanglement or injury.
 
+For younger dancers, coaches and guardians play a critical role in helping ensure safety. They are expected to guide skill selection, monitor progression, and ensure appropriate supervision and attire are in place. Encouraging safe practices not only protects the dancer—it sets the foundation for a long, sustainable journey in breaking.
+
 Breaking is about pushing limits—but it must be done with care, respect for the body, and commitment to long-term progression.
 
 ### Skill Recognition
