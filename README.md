@@ -12,11 +12,12 @@
     - [Cypher](#cypher)
     - [Prelims](#prelims)
     - [Brackets](#brackets)
-- [Intro](#intro)
-- [Beginner](#beginner)
-- [Intermediate](#intermediate)
-- [Advanced](#advanced)
-- [Elite](#elite)
+- [Levels](#levels)
+	- [Intro](#intro)
+	- [Beginner](#beginner)
+	- [Intermediate](#intermediate)
+	- [Advanced](#advanced)
+	- [Elite](#elite)
 
 
 ## General Rules
@@ -113,7 +114,9 @@ If there is more than 8 dancers within a level and division you will be creating
 * 16 dancers - The 'A' Bracket will get 8 dancers and the 'B' Bracket will get 8 dancers
 * 17 dancers - At this point there is always enough to fill the 'A' Bracket. You will fill the 'A' Bracket with the Top 8 seeds, and then divide the rest of the dancers between a 'B' and 'C' bracket. If there were enough dancers to always fill the 'B' Bracket as well (24+ dancers), you would always fill the 'A' and 'B' Brackets, and divide the dancers between a 'C' and 'D' bracket. This pattern continues on as the amount of dancers grow. 
 
-## Intro
+## Levels
+
+### Intro
 
 The Intro level has all the same skill recognitions as beginner, but is only open to athletes that are within their first year of breaking. 
 
@@ -128,7 +131,7 @@ Battle Rounds Up To 20 Seconds
 * Freeze: If inverted must have 3 points of contact with the ground, max 2 stacks
 * Acro: Must retain physical contact with the surface at all times with no spring motion allowed
 
-### Cypher Compulsory Round 
+#### Cypher Compulsory Round 
 
 The Intro and Beginner levels have a compulsory routine for when they do their cypher pre-lims. This routine will be completed within the cypher pre-lims, and following the completion the dancer may choose to do any other moves they choose. 
 
@@ -139,7 +142,7 @@ Intro / Beginner Compulsory Routine [DEMO VIDEO](https://www.youtube.com/watch?
 4. Power Move - Booty Spin
 5. Freeze - Scorpion Freeze
 
-## Beginner
+### Beginner
 
 Battle Rounds Up To 20 Seconds
 
@@ -152,7 +155,7 @@ Battle Rounds Up To 20 Seconds
 * Freeze: If inverted must have 3 points of contact with the ground, max 2 stacks
 * Acro: Must retain physical contact with the surface at all times with no spring motion allowed
 
-### Cypher Compulsory Round 
+#### Cypher Compulsory Round 
 
 The Intro and Beginner levels have a compulsory routine for when they do their cypher pre-lims. This routine will be completed within the cypher pre-lims, and following the completion the dancer may choose to do any other moves they choose. 
 
@@ -163,7 +166,7 @@ Intro / Beginner Compulsory Routine [DEMO VIDEO](https://www.youtube.com/watch?
 4. Power Move - Booty Spin
 5. Freeze - Scorpion Freeze
    
-## Intermediate
+### Intermediate
 
 Battle Rounds Up To 30 Seconds
 
@@ -175,7 +178,7 @@ Battle Rounds Up To 30 Seconds
 * Acro: Can alternate between hands and feet.
 
 
-## Advanced
+### Advanced
 
 Battle Rounds Up To 45 Seconds
 
@@ -186,7 +189,7 @@ Battle Rounds Up To 45 Seconds
 * Freeze: Can have one point of contact
 * Acro: Acro up to one flip with no twists
 
-## Elite
+### Elite
 
 Battle Rounds Up To One Minute
 
