@@ -120,6 +120,8 @@ To support fair competition and healthy progression, dancers may choose to compe
 
 Each level is defined by a set of recognized skills. If a dancer performs skills above the level they’ve registered for, judges are instructed to ignore those moves entirely. This allows dancers to focus on mastery and style within their chosen level, rather than being rewarded for prematurely attempting advanced tricks.
 
+The Pro level is unique in that it recognizes the professional level of Breaking. It is the only level to allow monetary prizes. 
+
 ### Intro
 
 The Intro level has all the same skill recognitions as beginner, but is only open to athletes that are within their first year of breaking. 
