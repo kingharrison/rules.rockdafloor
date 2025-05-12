@@ -116,6 +116,10 @@ If there is more than 8 dancers within a level and division you will be creating
 
 ## Levels
 
+To support fair competition and healthy progression, dancers may choose to compete in any level that reflects their current ability—except for the Intro level, which is reserved exclusively for dancers in their first year of breaking. This level exists to provide a welcoming space for true beginners to grow alongside others at a similar stage.
+
+Each level is defined by a set of recognized skills. If a dancer performs skills above the level they’ve registered for, judges are instructed to ignore those moves entirely. This allows dancers to focus on mastery and style within their chosen level, rather than being rewarded for prematurely attempting advanced tricks.
+
 ### Intro
 
 The Intro level has all the same skill recognitions as beginner, but is only open to athletes that are within their first year of breaking. 
