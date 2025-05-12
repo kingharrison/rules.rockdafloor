@@ -21,7 +21,14 @@
 
 ## General Rules
 
-In the interest of growing Breaking to include as many dancers as possible and giving each dancer a chance to compete, it is important to know ;laskdfja;lksd;aljskdf
+The general rules outlined on this site are designed with the growth, safety, and long-term development of the breaking community in mind. As breaking continues to evolve as both an art form and competitive sport, these rules serve as a foundation to promote fairness, consistency, and respect across all levels of participation.
+
+Our primary goals are:
+	•	To Grow the Sport: By creating a clear and accessible framework, we aim to welcome new dancers, organizers, and communities while preserving the essence and culture of breaking.
+	•	To Ensure Safety: Breaking involves dynamic, high-impact movement. These rules include safety guidelines that protect dancers, judges, and spectators, ensuring everyone can engage in breaking with confidence.
+	•	To Support Progression: Whether someone is new to the cypher or preparing for high-level battles, the rules are structured to support skill development through age-appropriate expectations, progression-based divisions, and pathways that encourage personal and competitive growth.
+
+Breaking is for everyone. These rules are a tool—not a limitation—to help dancers push boundaries while maintaining respect for the culture, the competition, and each other.
 
 ### Documents
 
