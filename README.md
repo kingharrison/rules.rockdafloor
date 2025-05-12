@@ -21,12 +21,12 @@
 
 ## General Rules
 
-The general rules outlined on this site are designed with the growth, safety, and long-term development of the breaking community in mind. As breaking continues to evolve as both an art form and competitive sport, these rules serve as a foundation to promote fairness, consistency, and respect across all levels of participation.
+The rules outlined on this site are designed with the growth, safety, and long-term development of the breaking community in mind. As breaking continues to evolve as both an art form and competitive sport, these rules serve as a foundation to promote fairness, consistency, and respect across all levels of participation.
 
 Our primary goals are:
-	•	To Grow the Sport: By creating a clear and accessible framework, we aim to welcome new dancers, organizers, and communities while preserving the essence and culture of breaking.
-	•	To Ensure Safety: Breaking involves dynamic, high-impact movement. These rules include safety guidelines that protect dancers, judges, and spectators, ensuring everyone can engage in breaking with confidence.
-	•	To Support Progression: Whether someone is new to the cypher or preparing for high-level battles, the rules are structured to support skill development through age-appropriate expectations, progression-based divisions, and pathways that encourage personal and competitive growth.
+	* To Grow the Sport: By creating a clear and accessible framework, we aim to welcome new dancers, organizers, and communities while preserving the essence and culture of breaking.
+	* To Ensure Safety: Breaking involves dynamic, high-impact movement. These rules include safety guidelines that protect dancers, judges, and spectators, ensuring everyone can engage in breaking with confidence.
+	* To Support Progression: Whether someone is new to the cypher or preparing for high-level battles, the rules are structured to support skill development through age-appropriate expectations, progression-based divisions, and pathways that encourage personal and competitive growth.
 
 Breaking is for everyone. These rules are a tool—not a limitation—to help dancers push boundaries while maintaining respect for the culture, the competition, and each other.
 
@@ -39,6 +39,19 @@ Below are links to the RDF documents to help prepare and run a battle.
 * [Battle Plan PDF](https://rules.rdfbattles.com/Battle_Plan.pdf) - A Battle Plan is to help dancers learn to organize their skills to use for all battles. It is not meant to be a hard script, but more a dynamic template as dancers progress and learn how to use their moves as the times that make the most impact. 
 
 ### Safety
+
+The safety of every dancer is a top priority. While breaking is an expressive and physically demanding art form, it must be approached with discipline and awareness to prevent injury.
+
+Dancers are strongly encouraged to perform and compete only with moves and skills that are within their current level of training and proficiency. Attempting advanced skills too early—before proper strength, control, and technique are developed—can lead to serious injury or even death. For this reason, skills performed outside a dancer’s declared level will not be recognized during competition.
+
+Proper attire is also essential to safety. Because every dancer’s style and movement vary, there is no one-size-fits-all dress code. However, dancers must avoid wearing items that present a hazard, including:
+	* Clothing with hard elements that may obstruct movement
+	* Jewelry that can catch or snag during dynamic motion
+	* Loose or oversized accessories that can impair vision or control
+
+Each dancer is responsible for ensuring that their attire supports freedom of movement while minimizing the risk of entanglement or injury.
+
+Breaking is about pushing limits—but it must be done with care, respect for the body, and commitment to long-term progression.
 
 ### Skill Recognition
 
@@ -166,7 +179,7 @@ Battle Rounds Up To 45 Seconds
 * Footwork: Looking to be performed up on the knuckles.
 * Power Move: No limitations
 * Freeze: Can have one point of contact
-* Acro: Acro up to one flip and two twists, in any combination
+* Acro: Acro up to one flip with no twists
 
 ## Elite
 
