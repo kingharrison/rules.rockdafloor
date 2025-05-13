@@ -197,6 +197,9 @@ Battle Rounds Up To 45 Seconds
 
 ### Pro
 
+The Pro Level is for athletes who have competed at a high level in events and are competing
+at events to win money. This is the only 1v1 division at an RDF battle that has monetsry prizes. 
+
 Battle Rounds Up To One Minute
 
 * Top Rocks: Hips and shoulders can face different directions. Higher level variations of steps and entrances are recognized.
