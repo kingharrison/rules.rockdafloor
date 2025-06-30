@@ -114,6 +114,16 @@ If there is more than 8 dancers within a level and division you will be creating
 * 16 dancers - The 'A' Bracket will get 8 dancers and the 'B' Bracket will get 8 dancers
 * 17 dancers - At this point there is always enough to fill the 'A' Bracket. You will fill the 'A' Bracket with the Top 8 seeds, and then divide the rest of the dancers between a 'B' and 'C' bracket. If there were enough dancers to always fill the 'B' Bracket as well (24+ dancers), you would always fill the 'A' and 'B' Brackets, and divide the dancers between a 'C' and 'D' bracket. This pattern continues on as the amount of dancers grow. 
 
+## Crew Battles
+
+Crew battles are one of the most exciting parts of breaking—where teamwork, creativity, and performance come together on the floor. It’s not just about individual skills—it’s about chemistry, timing, and the story your crew tells through movement.
+
+For the 2025–2026 season, each crew may have up to five dancers on the floor during their routine. Crews will have up to 2½ minutes to perform a choreographed set. Judges will watch the full performance and score it based on execution, originality, synchronization, use of breaking elements, and overall impact.
+
+After all crews have performed, the top-scoring teams will move into battle rounds to determine the winner. At minimum, the top 2 crews will advance. If participation allows, we will expand to top 4 or top 8 for bracket-style battles.
+
+Crew routines should be a showcase of unity, style, and stage presence—this is your moment to shine together. For this first season there is no level separation between crews. 
+
 ## Levels
 
 To support fair competition and healthy progression, dancers may choose to compete in any level that reflects their current ability—except for the Intro level, which is reserved exclusively for dancers in their first year of breaking. This level exists to provide a welcoming space for true beginners to grow alongside others at a similar stage.
