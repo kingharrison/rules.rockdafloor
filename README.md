@@ -118,9 +118,9 @@ If there is more than 8 dancers within a level and division you will be creating
 
 Crew battles are one of the most exciting parts of breaking—where teamwork, creativity, and performance come together on the floor. It’s not just about individual skills—it’s about chemistry, timing, and the story your crew tells through movement.
 
-For the 2025–2026 season, each crew may have up to five dancers on the floor during their routine. Crews will have up to 2½ minutes to perform a choreographed set. Judges will watch the full performance and score it based on execution, originality, synchronization, use of breaking elements, and overall impact.
+For the 2025–2026 season, each crew may have up to five dancers on the floor during their routine. Crews will have up to 2½ minutes to perform a choreographed set to routine music provided by the crew. Judges will watch the full performance and score it based on execution, originality, synchronization, use of breaking elements, and overall impact.
 
-After all crews have performed, the top-scoring teams will move into battle rounds to determine the winner. At minimum, the top 2 crews will advance. If participation allows, we will expand to top 4 or top 8 for bracket-style battles.
+After all crews have performed and the scores are tabulated, the top-scoring teams will move into battle rounds to determine the winner. At minimum, the top 2 crews will advance. If participation allows, we will expand to top 4 or top 8 for bracket-style battles.
 
 Crew routines should be a showcase of unity, style, and stage presence—this is your moment to shine together. For this first season there is no level separation between crews. 
 
