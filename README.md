@@ -18,6 +18,7 @@
 	- [Intermediate](#intermediate)
 	- [Advanced](#advanced)
 	- [Pro](#pro)
+ - [Crews](#crews)
 
 
 ## General Rules
@@ -57,6 +58,8 @@ Each dancer is responsible for ensuring that their attire supports freedom of mo
 For younger dancers, coaches and guardians play a critical role in helping ensure safety. They are expected to guide skill selection, monitor progression, and ensure appropriate supervision and attire are in place. Encouraging safe practices not only protects the dancer—it sets the foundation for a long, sustainable journey in breaking.
 
 Breaking is about pushing limits—but it must be done with care, respect for the body, and commitment to long-term progression.
+
+Dancers are not allowed to physically touch any other dancer while battling. The only exception is interaction within their own crew while in the crew battle. The battle host may warn dancers who violate this rule, and have the right to disqualify any dancer who refuses to follow this rule. 
 
 ### Skill Recognition
 
@@ -113,16 +116,6 @@ If there is more than 8 dancers within a level and division you will be creating
 * 15 dancers - The 'A' Bracket will get 8 dancers and the 'B' Bracket will get 7 dancers
 * 16 dancers - The 'A' Bracket will get 8 dancers and the 'B' Bracket will get 8 dancers
 * 17 dancers - At this point there is always enough to fill the 'A' Bracket. You will fill the 'A' Bracket with the Top 8 seeds, and then divide the rest of the dancers between a 'B' and 'C' bracket. If there were enough dancers to always fill the 'B' Bracket as well (24+ dancers), you would always fill the 'A' and 'B' Brackets, and divide the dancers between a 'C' and 'D' bracket. This pattern continues on as the amount of dancers grow. 
-
-## Crew Battles
-
-Crew battles are one of the most exciting parts of breaking—where teamwork, creativity, and performance come together on the floor. It’s not just about individual skills—it’s about chemistry, timing, and the story your crew tells through movement.
-
-For the 2025–2026 season, each crew may have up to five dancers on the floor during their routine. Crews will have up to 2½ minutes to perform a choreographed set to routine music provided by the crew. Judges will watch the full performance and score it based on execution, originality, synchronization, use of breaking elements, and overall impact.
-
-After all crews have performed and the scores are tabulated, the top-scoring teams will move into battle rounds to determine the winner. At minimum, the top 2 crews will advance. If participation allows, we will expand to top 4 or top 8 for bracket-style battles.
-
-Crew routines should be a showcase of unity, style, and stage presence—this is your moment to shine together. For this first season there is no level separation between crews. 
 
 ## Levels
 
@@ -218,3 +211,34 @@ Battle Rounds Up To One Minute
 * Power Move: No limitations
 * Freeze: Can have one point of contact
 * Acro: Acro up to one flip and two twists, in any combination
+
+## Crew Showcase Routines and Battles Overview
+
+Crew battles are one of the most exciting parts of breaking—where teamwork, creativity, and performance come together on the floor. It’s not just about individual skills—it’s about chemistry, timing, and the story your crew tells through movement.
+
+For the 2025–2026 season, each crew may have up to five dancers on the floor during their Showcase Routine. Crews will have up to 2½ minutes to perform a choreographed Showcase Routine to music provided by the crew. Judges will watch the full performance and score it based on execution, originality, synchronization, use of breaking elements, and overall impact.
+
+After all crews have performed and the scores are tabulated, the top-scoring teams will move into battle rounds to determine the winner. At minimum, the top 2 crews will advance. If participation allows, we will expand to top 4 or top 8 for bracket-style battles.
+
+Crew routines should be a showcase of unity, style, and stage presence—this is your moment to shine together. For this first season there is no level separation between crews.
+
+### Crew Showcase Routine Rules
+
+All routines must be 2:30 minutes or less. For every full 5 seconds over the 2:30 a crew is still performing, the final placement will be lowered by one. Timing of the routine will be measured from the first sound / noise / piece of music from the routine before performed. 
+
+Showcase Routines may contain up to 5 people in the performance at one time. The same 5 dancers that start the routine must remain the same the entire routine (no substituting dancers in and out during the routine). Routines may use less than 5 dancers, but must have at least 3 to be a crew.
+
+If there are 3 or more crews performing Showcase Routines, only the top routines will be selected to move on to the Battle rounds. Performance and placement of their Showcase Routine will determine seeding for the battle round, but will not have any other carry over for battles. 
+
+If there are only 2 crews performing Showcase Routines, the winner will get one point. As there are only two crews, they will both move on and battle. The winner of the crew battle will also receive one point. If the two crews split the points, there will be a 1v1 battle between each crews best dancer. The winner of this 1v1 will determine the crew winner. 
+
+### Crew Battle Rules
+
+Each crew will have 3 total rounds to battle another crew. Judges will award, per judge, one point to either crew each round. The winner of the crew battle will have the most points. 
+
+Each side will get up to 1 minute per round for their crew to perform. 
+
+No assisted tumbling (example: toe pitch back tucks) are allowed. All other breaking safety rules are allowed. 
+
+
+
