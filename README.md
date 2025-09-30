@@ -37,9 +37,9 @@ Breaking is for everyone. These rules are a tool—not a limitation—to help da
 
 Below are links to the RDF documents to help prepare and run a battle. 
 
-* [Cypher Prelim Judges Form PDF](https://rules.rdfbattles.com/Cypher_Prelims_Judges_Form.pdf) - Use this sheet to judge all dancers within the cypher prelims. Judges may go by whole numbers 1-10, half numbers 1-10 (6.5, 7.5, etc..), or one decimal place (9.4, 8.2, etc). 
-* [Top 8 Bracket PDF](https://rules.rdfbattles.com/Top_8_Bracket.pdf) - Bracket sheets are built to be in segments of 8. 
-* [Battle Plan PDF](https://rules.rdfbattles.com/Battle_Plan.pdf) - A Battle Plan is to help dancers learn to organize their skills to use for all battles. It is not meant to be a hard script, but more a dynamic template as dancers progress and learn how to use their moves as the times that make the most impact. 
+* [Cypher Prelim Judges Form PDF](https://rules.rockdafloor.com/Cypher_Prelims_Judges_Form.pdf) - Use this sheet to judge all dancers within the cypher prelims. Judges may go by whole numbers 1-10, half numbers 1-10 (6.5, 7.5, etc..), or one decimal place (9.4, 8.2, etc). 
+* [Top 8 Bracket PDF](https://rules.rockdafloor.com/Top_8_Bracket.pdf) - Bracket sheets are built to be in segments of 8. 
+* [Battle Plan PDF](https://rules.rockdafloor.com/Battle_Plan.pdf) - A Battle Plan is to help dancers learn to organize their skills to use for all battles. It is not meant to be a hard script, but more a dynamic template as dancers progress and learn how to use their moves as the times that make the most impact. 
 
 ### Safety
 
