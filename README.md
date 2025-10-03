@@ -4,7 +4,8 @@
 
 ## Table of Contents
 
-- [General Rules](#general)
+- [General Rules](#general-rules)
+	- [Battle Dcouments](#battle-documents)	
     - [Safety](#safety)
     - [Skill Recognition](#skill-recognition)
     - [Divisions](#divisions)
@@ -12,13 +13,14 @@
     - [Cypher](#cypher)
     - [Prelims](#prelims)
     - [Brackets](#brackets)
+    - [Byes](#byes)
 - [Levels](#levels)
 	- [Intro](#intro)
 	- [Beginner](#beginner)
 	- [Intermediate](#intermediate)
 	- [Advanced](#advanced)
 	- [Pro](#pro)
- - [Crews](#crews)
+ - [Crew Showcase Routines and Battles Overview](#crew-showcase-routines-and-battles-overview)
  - [Skill Development](#skill-development)
 
 
@@ -34,7 +36,7 @@ Our primary goals are:
 
 Breaking is for everyone. These rules are a tool—not a limitation—to help dancers push boundaries while maintaining respect for the culture, the competition, and each other.
 
-### Documents
+### Battle Documents
 
 Below are links to the RDF documents to help prepare and run a battle. 
 
