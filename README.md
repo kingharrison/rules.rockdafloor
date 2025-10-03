@@ -19,6 +19,7 @@
 	- [Advanced](#advanced)
 	- [Pro](#pro)
  - [Crews](#crews)
+ - [Skill Development](#skill-development)
 
 
 ## General Rules
@@ -240,5 +241,9 @@ Each side will get up to 1 minute per round for their crew to perform.
 
 No assisted tumbling (example: toe pitch back tucks) are allowed. All other breaking safety rules are allowed. 
 
+## Skill Development
 
+Though there are defined guidelines for each level of competition, each breaker and each school will develop progressions and skills in an order that most benefits their students. We have created a Skill Progress Sheet so that each school can tailor the skills individually for each breaker, and mark as they attain those skills. Notice the skill sheet does not specifically refer to how a skill should look, but how well they perform the skill in the eyes of the coach / studio. There is recognition for attempting a skill as just attempting takes effort and encourages development. 
+
+* [Skill Progress Sheet PDF](https://rules.rockdafloor.com/Skill_Progress_Sheet.pdf) - Use this sheet to create a list of skills for a BBoy or Bgirl and mark their progress so they (and their parents) can see development. 
 
