@@ -185,7 +185,7 @@ Battle Rounds Up To 30 Seconds
 * Top Rocks: Hips and shoulders can face different directions. Higher level variations of steps and entrances are recognized.
 * Transitions: Transitions can leave the ground.
 * Footwork: Looking to be performed up on the knuckles.
-* Power Move: All power moves recognized up to one and a quarter revolution. Pauses in between spins will allow more recognition.
+* Power Move: Power moves that rotate but do not change body orientation in relation to the ground (ex backspin) can spin as many times as they like. All power moves that change body orientation in relation to the ground (ex windmills, flairs) are recognized up to one and a quarter revolution. Pauses in between spins will allow more recognition.
 * Freeze: When inverted can have two points of contact with the ground.
 * Acro: Can alternate between hands and feet.
 
