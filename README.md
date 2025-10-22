@@ -1,5 +1,5 @@
 <h1 align="center"> 
-	<a href="https://rdfbattles.com/">RDF Battle Rules</a>: v2025-2026
+	<a href="https://rockdafloor.com/">Rock Da Floor Battle Rules</a>: v2025-2026
 </h1>
 
 ## Table of Contents
