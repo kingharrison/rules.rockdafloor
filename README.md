@@ -14,6 +14,7 @@
     - [Prelims](#prelims)
     - [Brackets](#brackets)
     - [Byes](#byes)
+    - [Battle Timing](#battle-timing)
 - [Levels](#levels)
 	- [Intro](#intro)
 	- [Beginner](#beginner)
@@ -121,6 +122,20 @@ If there is more than 8 dancers within a level and division you will be creating
 * 15 dancers - The 'A' Bracket will get 8 dancers and the 'B' Bracket will get 7 dancers
 * 16 dancers - The 'A' Bracket will get 8 dancers and the 'B' Bracket will get 8 dancers
 * 17 dancers - At this point there is always enough to fill the 'A' Bracket. You will fill the 'A' Bracket with the Top 8 seeds, and then divide the rest of the dancers between a 'B' and 'C' bracket. If there were enough dancers to always fill the 'B' Bracket as well (24+ dancers), you would always fill the 'A' and 'B' Brackets, and divide the dancers between a 'C' and 'D' bracket. This pattern continues on as the amount of dancers grow. 
+
+#### Battle Timing
+
+To run battles efficiently as possible having an organized timing of the event that is announced to all participants, coaches, and parents is important. There are three times for each battle session that need to be announced. 
+
+* Doors Open Time - This is the time people are allowed to come into the venue
+* Warmup Time - This is an optional time announced for a coach led group warmup
+* Regisration Closes / Cypher Prelims Begin - This is the time no one is allowed to register for the event anymore and the prelims section begins.
+
+Following these announced times is key to keeping the event on schedule. For example times we would recommend:
+
+* Doors Open 45 minutes before Cypher Prelims Begin
+* Warmups Begin 15 Minutes before Cypher Prelims Begin
+* Set your start time of Cypher Prelims to begin. Note you should not let anyone else register after prelims has begun. 
 
 ## Levels
 
