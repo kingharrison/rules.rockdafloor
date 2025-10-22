@@ -21,7 +21,9 @@
 	- [Advanced](#advanced)
 	- [Pro](#pro)
  - [Crew Showcase Routines and Battles Overview](#crew-showcase-routines-and-battles-overview)
+ - [Bandana System](#bandana-skillls-progression)
  - [Skill Development](#skill-development)
+
 
 
 ## General Rules
@@ -242,6 +244,36 @@ Each crew will have 3 total rounds to battle another crew. Judges will award, pe
 Each side will get up to 1 minute per round for their crew to perform. 
 
 No assisted tumbling (example: toe pitch back tucks) are allowed. All other breaking safety rules are allowed. 
+
+## Bandana Skills Progression
+
+To help give coaches, parents, and BBoys and BGirls a progressive path to learn and develop skills we introduce a colored bandana system. All skills goals to earn each bandana help to prepare and develop the dancer into the following bandana, and compete in the level of each bandana. All skills within the bandana are allowed to battle in the level they are associated with. 
+
+### Intro / Beginner Bandanas
+
+#### White
+
+#### Yellow
+
+### Intermediate Bandanas
+
+#### Orange
+
+#### Blue
+
+#### Purple
+
+### Advanced Bandanas
+
+#### Green
+
+#### Red
+
+#### Camo
+
+### Elite Bandanas
+
+#### Black
 
 ## Skill Development
 
