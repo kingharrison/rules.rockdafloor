@@ -45,7 +45,11 @@ Below are links to the RDF documents to help prepare and run a battle.
 
 * [Cypher Prelim Judges Form PDF](https://rules.rockdafloor.com/Cypher_Prelims_Judges_Form.pdf) - Use this sheet to judge all dancers within the cypher prelims. Judges may go by whole numbers 1-10, half numbers 1-10 (6.5, 7.5, etc..), or one decimal place (9.4, 8.2, etc). 
 * [Top 8 Bracket PDF](https://rules.rockdafloor.com/Top_8_Bracket.pdf) - Bracket sheets are built to be in segments of 8. 
-* [Battle Plan PDF](https://rules.rockdafloor.com/Battle_Plan.pdf) - A Battle Plan is to help dancers learn to organize their skills to use for all battles. It is not meant to be a hard script, but more a dynamic template as dancers progress and learn how to use their moves as the times that make the most impact. 
+* [Battle Plan PDF](https://rules.rockdafloor.com/Battle_Plan.pdf) - A Battle Plan is to help dancers learn to organize their skills to use for all battles. It is not meant to be a hard script, but more a dynamic template as dancers progress and learn how to use their moves as the times that make the most impact.
+
+### Google Sheet Registrants
+
+* [Battle Prelims Scoring Template](https://docs.google.com/spreadsheets/d/1NKNfbeRPNTsluH5GWLX2HVe4KIpmVmhx-tA-0VYQ-YI/edit?usp=sharing) - This Google sheet doc will allow you to write out all registrants for a battle for a level. Then putting the scores in for all three judges from prelims will automatically rank the breakers and divide them into brackets for you. When you visit the link make sure you go to File, Make A Copy, then fill out the registrants. This works hand in hand with the Cypher Prelim Judges Form above. Make sure the kids on the judges form are in the same order in the google doc and in the same order they do prelims in. 
 
 ### Safety
 
