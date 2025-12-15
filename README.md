@@ -115,16 +115,18 @@ There are 6 dancers within a division. Seed #7 and seed #8 will be filled in as 
 
 #### Multiple Brackets For Same Level And Division
 
-If there is more than 8 dancers within a level and division you will be creating multiple Top 8 Brackets for dancers to compete in. How the brackets are divded is listed below:
+If there is more than 8 dancers within a level and division you will be creating multiple Top 8 Brackets for dancers to compete in. The brackets are labeled with a number-letter. The number tells you what bracket it is, and the letter tells you how many brackets. If a bracket was 2-C, that means it is the second highest bracket (2) and there are 3 total brackets (C=3). How many brackets there are depends on the number of dancers. If you have one more dancer above a multiple of 8, you have a new bracket. (one bracket with 8 or less, two brackets with 16 or less until 8, 3 brackets with 24 or less until 16... ). For 3 or more brackets you always take full brackets for the top, and divide the last two brackets like below. Use Byes to fill out an incomplete bracket. 
 
-*  9 dancers - The 'A' Bracket will get 5 dancers and the 'B' Bracket will get 4 dancers
-* 10 dancers - The 'A' Bracket will get 5 dancers and the 'B' Bracket will get 5 dancers
-* 11 dancers - The 'A' Bracket will get 6 dancers and the 'B' Bracket will get 5 dancers
-* 12 dancers - The 'A' Bracket will get 6 dancers and the 'B' Bracket will get 6 dancers
-* 13 dancers - The 'A' Bracket will get 7 dancers and the 'B' Bracket will get 6 dancers
-* 14 dancers - The 'A' Bracket will get 7 dancers and the 'B' Bracket will get 7 dancers
-* 15 dancers - The 'A' Bracket will get 8 dancers and the 'B' Bracket will get 7 dancers
-* 16 dancers - The 'A' Bracket will get 8 dancers and the 'B' Bracket will get 8 dancers
+How the brackets are divded is listed below:
+
+*  9 dancers - The '1' Bracket will get 5 dancers and the '2' Bracket will get 4 dancers
+* 10 dancers - The '1' Bracket will get 5 dancers and the '2' Bracket will get 5 dancers
+* 11 dancers - The '1' Bracket will get 6 dancers and the '2' Bracket will get 5 dancers
+* 12 dancers - The '2' Bracket will get 6 dancers and the '2' Bracket will get 6 dancers
+* 13 dancers - The '1' Bracket will get 7 dancers and the '2' Bracket will get 6 dancers
+* 14 dancers - The '1' Bracket will get 7 dancers and the '2' Bracket will get 7 dancers
+* 15 dancers - The '1' Bracket will get 8 dancers and the '2' Bracket will get 7 dancers
+* 16 dancers - The '1' Bracket will get 8 dancers and the '2' Bracket will get 8 dancers
 * 17 dancers - At this point there is always enough to fill the 'A' Bracket. You will fill the 'A' Bracket with the Top 8 seeds, and then divide the rest of the dancers between a 'B' and 'C' bracket. If there were enough dancers to always fill the 'B' Bracket as well (24+ dancers), you would always fill the 'A' and 'B' Brackets, and divide the dancers between a 'C' and 'D' bracket. This pattern continues on as the amount of dancers grow. 
 
 #### Battle Timing
