@@ -155,7 +155,7 @@ The Pro level is unique in that it recognizes the professional level of Breaking
 
 The Intro level has all the same skill recognitions as beginner, but is only open to athletes that are within their first year of breaking. 
 
-Battle Rounds Up To 20 Seconds
+Battle Rounds Begin Counting At 20 Seconds
 
 * Top Rocks: All Top Rocks must have the hips and shoulders facing the same direction during the movement. Recognition is limited to variations of steps and entrances.
 * Transitions: All transitions must remain in contact with the ground.
@@ -165,21 +165,10 @@ Battle Rounds Up To 20 Seconds
 	- May alternate between 4 points of contact with the ground
 * Freeze: If inverted must have 3 points of contact with the ground, max 2 stacks
 * Acro: Must retain physical contact with the surface at all times with no spring motion allowed
-
-#### Cypher Compulsory Round 
-
-The Intro and Beginner levels have a compulsory routine for when they do their cypher pre-lims. This routine will be completed within the cypher pre-lims, and following the completion the dancer may choose to do any other moves they choose. 
-
-Intro / Beginner Compulsory Routine [DEMO VIDEO](https://www.youtube.com/watch?v=wqQAVLUL_ZE)
-1. Top Rocks - 1 eight each of 2 different types of toprocks.
-2. Transition - Corkscrew
-3. Footwork - Four shootouts
-4. Power Move - Booty Spin
-5. Freeze - Scorpion Freeze
 
 ### Beginner
 
-Battle Rounds Up To 20 Seconds
+Battle Rounds Begin Counting At 20 Seconds
 
 * Top Rocks: All Top Rocks must have the hips and shoulders facing the same direction during the movement. Recognition is limited to variations of steps and entrances.
 * Transitions: All transitions must remain in contact with the ground.
@@ -189,21 +178,10 @@ Battle Rounds Up To 20 Seconds
 	- May alternate between 4 points of contact with the ground
 * Freeze: If inverted must have 3 points of contact with the ground, max 2 stacks
 * Acro: Must retain physical contact with the surface at all times with no spring motion allowed
-
-#### Cypher Compulsory Round 
-
-The Intro and Beginner levels have a compulsory routine for when they do their cypher pre-lims. This routine will be completed within the cypher pre-lims, and following the completion the dancer may choose to do any other moves they choose. 
-
-Intro / Beginner Compulsory Routine [DEMO VIDEO](https://www.youtube.com/watch?v=wqQAVLUL_ZE)
-1. Top Rocks - 1 eight each of 2 different types of toprocks.
-2. Transition - Corkscrew
-3. Footwork - Four shootouts
-4. Power Move - Booty Spin
-5. Freeze - Scorpion Freeze
    
 ### Intermediate
 
-Battle Rounds Up To 30 Seconds
+Battle Rounds Begin Counting At 30 Seconds
 
 * Top Rocks: Hips and shoulders can face different directions. Higher level variations of steps and entrances are recognized.
 * Transitions: Transitions can leave the ground.
@@ -215,7 +193,7 @@ Battle Rounds Up To 30 Seconds
 
 ### Advanced
 
-Battle Rounds Up To 45 Seconds
+Battle Rounds Begin Counting At 45 Seconds
 
 * Top Rocks: Hips and shoulders can face different directions. Higher level variations of steps and entrances are recognized.
 * Transitions: Transitions can leave the ground.
@@ -229,7 +207,7 @@ Battle Rounds Up To 45 Seconds
 The Pro Level is for athletes who have competed at a high level in events and are competing
 at events to win money. This is the only 1v1 division at an RDF battle that has monetary prizes. 
 
-Battle Rounds Up To One Minute
+Battle Rounds Begin Counting At One Minute
 
 * Top Rocks: Hips and shoulders can face different directions. Higher level variations of steps and entrances are recognized.
 * Transitions: Transitions can leave the ground.
