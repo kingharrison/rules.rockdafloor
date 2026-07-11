@@ -12,6 +12,7 @@
 	- [Number Of Dancers](#number-of-dancers)
 	- [Cypher](#cypher)
 	- [Prelims](#prelims)
+		- [Prelim Scoring Rubric](#prelim-scoring-rubric)
 	- [Brackets](#brackets)
 		- [Byes](#byes)
 		- [Multiple Brackets For Same Level And Division](#multiple-brackets-for-same-level-and-division)
@@ -27,6 +28,7 @@
 - [Crew Showcase Routines And Battles](#crew-showcase-routines-and-battles)
 	- [Crew Levels And Eligibility](#crew-levels-and-eligibility)
 	- [Crew Showcase Routine Rules](#crew-showcase-routine-rules)
+		- [Showcase Scoresheet And Rubrics](#showcase-scoresheet-and-rubrics)
 	- [Crew Battle Rules](#crew-battle-rules)
 
 ## General Rules
@@ -107,6 +109,19 @@ All dancers within a Level will perform one by one, in an order managed by the C
 Judges assign each dancer a score from 1-10—whole numbers, halves, or one decimal place, matching the scoring increments on the Cypher Prelim Judges Form. The judges' scores are added together, and dancers are ranked from highest to lowest total. That ranking determines bracket seeding: the highest total is the #1 seed, the second highest is the #2 seed, and so on. If 20 dancers compete, the lowest-scored dancer is the #20 seed.
 
 If two dancers tie in total prelim score, the head judge's individual score breaks the tie. If still tied, each dancer performs one additional short round and the judges re-rank them.
+
+#### Prelim Scoring Rubric
+
+Prelim scores measure what the dancer is expressing within their Level—not against the whole event. An Intro or Beginner dancer can earn a 10, and an Advanced dancer can earn a 1. A 10 means the dancer is performing at the top of their Level, not that they are the best dancer in the building. Since seeding only ever happens within a Level and Division, scores never need to compare across Levels.
+
+There is no set criteria, but the rubric below gives judges anchor points. Judge in two steps: first decide which band the dancer's round lives in, then decide how strong they are within that band. "This kid is strong for Beginner—how strong? Feels like an 8.7."
+
+| Score | Description |
+| --- | --- |
+| 7.0 – 10.0 | Strong vocabulary and execution for the skills within the Level. A wide variety of recognized skills performed with control, clean technique, and confidence—rounds feel full and intentional. |
+| 4.0 – 7.0 | Intermediate vocabulary and/or execution of the skills within the Level. A solid foundation: either a narrower set of skills performed well, or a wider set performed inconsistently. |
+| 1.0 – 4.0 | Weak vocabulary and/or execution of the skills within the Level. Few recognized skills, repeated material, or frequent breaks in control and technique. |
+| 0 | Scratch—a dancer who registered but did not perform. Awarding a 0 keeps the scoring sheet clean and automatically sorts scratches to the bottom. |
 
 ### Brackets
 
@@ -278,9 +293,50 @@ Advanced and Pro crews battle for monetary prizes. Prize money for Advanced crew
 
 ### Crew Showcase Routine Rules
 
-Crews have up to 2 minutes 30 seconds to perform a choreographed Showcase Routine to music provided by the crew. Crews must submit their showcase music to the event DJ before registration closes. Judges score the routine on execution, originality, synchronization, use of breaking elements, and overall impact. Judges stop judging at 2:30—anything performed after that point is not scored. Timing is measured from the first sound of the crew's music.
+Crews have up to 2 minutes 30 seconds to perform a choreographed Showcase Routine to music provided by the crew. Crews must submit their showcase music to the event DJ before registration closes. Judges score the routine using the Showcase Scoresheet below. Judges stop judging at 2:30—anything performed after that point is not scored. Timing is measured from the first sound of the crew's music.
 
 The same dancers that start the routine must perform the entire routine—no substituting dancers in or out during the routine.
+
+#### Showcase Scoresheet And Rubrics
+
+The Showcase Scoresheet has seven categories in two groups. Each judge scores every category from 1.0 to 10.0, and a crew's showcase score is the total across all categories and all judges (a maximum of 70 per judge).
+
+Skill Categories:
+
+* Footwork
+* Transitions
+* Top Rocks
+* Freezes
+* Power Moves
+
+Performance Categories:
+
+* Musicality
+* Creativity
+
+All five Skill Categories are judged within the crew's Level (see [Skill Recognition](#skill-recognition)) using the rubric below. The rubric is built to reward breakers moving together: a routine of back-to-back solos scores low in the Skill Categories no matter how strong the individual skills are. Choreograph accordingly.
+
+| Score | Description |
+| --- | --- |
+| 7.0 – 10.0 | High level execution, technique, and synchronization with most to all breakers together. |
+| 4.0 – 7.0 | High level execution, technique, and synchronization with only a few breakers together OR moderate execution, technique, and synchronization with most to all breakers together. |
+| 1.0 – 4.0 | Mostly individual breakers (solos) performing skills, regardless of level OR low level execution, technique, and synchronization from the breakers. |
+
+Musicality:
+
+| Score | Description |
+| --- | --- |
+| 7.0 – 10.0 | The routine rides the music—hits, accents, and skill placement consistently land on the beat and match the energy of the track. |
+| 4.0 – 7.0 | The routine connects with the music in sections—clear hits and on-beat moments, mixed with stretches where the choreography and the music disconnect. |
+| 1.0 – 4.0 | The routine could be performed to any song—little to no connection between the movement and the music. |
+
+Creativity:
+
+| Score | Description |
+| --- | --- |
+| 7.0 – 10.0 | Original concepts, formations, transitions, and skill combinations—the routine has its own identity and shows the judges ideas they have not seen before. |
+| 4.0 – 7.0 | Some original moments layered over a familiar, expected structure. |
+| 1.0 – 4.0 | Standard, predictable choreography with little original material. |
 
 Within each Level: if 3 or more crews perform Showcase Routines, the top-scoring crews advance to the battle rounds (top 2 at minimum; top 4 or top 8 if participation allows—the Battle Host will announce the advancement count before showcases begin). Showcase placement determines battle seeding but carries no other weight into the battles. If two crews tie in showcase score for the final advancing spot, the head judge's score breaks the tie; if still tied, both crews advance.
 
