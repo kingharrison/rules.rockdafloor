@@ -1,31 +1,33 @@
 <h1 align="center"> 
-	<a href="https://rockdafloor.com/">Rock Da Floor Battle Rules</a>: v2025-2026
+	<a href="https://rockdafloor.com/">Rock Da Floor Battle Rules</a>: v2026-2027
 </h1>
 
 ## Table of Contents
 
 - [General Rules](#general-rules)
-	- [Battle Dcouments](#battle-documents)	
-    - [Safety](#safety)
-    - [Skill Recognition](#skill-recognition)
-    - [Divisions](#divisions)
-    - [Number Of Dancers](#number-of-dancers)
-    - [Cypher](#cypher)
-    - [Prelims](#prelims)
-    - [Brackets](#brackets)
-    - [Byes](#byes)
-    - [Battle Timing](#battle-timing)
+	- [Battle Documents](#battle-documents)
+	- [Safety](#safety)
+	- [Skill Recognition](#skill-recognition)
+	- [Divisions](#divisions)
+	- [Number Of Dancers](#number-of-dancers)
+	- [Cypher](#cypher)
+	- [Prelims](#prelims)
+	- [Brackets](#brackets)
+		- [Byes](#byes)
+		- [Multiple Brackets For Same Level And Division](#multiple-brackets-for-same-level-and-division)
+	- [Battle Format And Judging](#battle-format-and-judging)
+	- [Round Timing And Count-Offs](#round-timing-and-count-offs)
+	- [Event Schedule And Run Of Show](#event-schedule-and-run-of-show)
 - [Levels](#levels)
 	- [Intro](#intro)
 	- [Beginner](#beginner)
 	- [Intermediate](#intermediate)
 	- [Advanced](#advanced)
 	- [Pro](#pro)
- - [Crew Showcase Routines and Battles Overview](#crew-showcase-routines-and-battles-overview)
- - [Bandana System](#bandana-skillls-progression)
- - [Skill Development](#skill-development)
-
-
+- [Crew Showcase Routines And Battles](#crew-showcase-routines-and-battles)
+	- [Crew Levels And Eligibility](#crew-levels-and-eligibility)
+	- [Crew Showcase Routine Rules](#crew-showcase-routine-rules)
+	- [Crew Battle Rules](#crew-battle-rules)
 
 ## General Rules
 
@@ -41,23 +43,20 @@ Breaking is for everyone. These rules are a tool—not a limitation—to help da
 
 ### Battle Documents
 
-Below are links to the RDF documents to help prepare and run a battle. 
+Below are links to the RDF documents to help prepare and run a battle.
 
-* [Cypher Prelim Judges Form PDF](https://rules.rockdafloor.com/Cypher_Prelims_Judges_Form.pdf) - Use this sheet to judge all dancers within the cypher prelims. Judges may go by whole numbers 1-10, half numbers 1-10 (6.5, 7.5, etc..), or one decimal place (9.4, 8.2, etc). 
-* [Top 8 Bracket PDF](https://rules.rockdafloor.com/Top_8_Bracket.pdf) - Bracket sheets are built to be in segments of 8. 
-* [Battle Plan PDF](https://rules.rockdafloor.com/Battle_Plan.pdf) - A Battle Plan is to help dancers learn to organize their skills to use for all battles. It is not meant to be a hard script, but more a dynamic template as dancers progress and learn how to use their moves as the times that make the most impact.
-
-### Google Sheet Registrants
-
-* [Battle Prelims Scoring Template](https://docs.google.com/spreadsheets/d/1NKNfbeRPNTsluH5GWLX2HVe4KIpmVmhx-tA-0VYQ-YI/edit?usp=sharing) - This Google sheet doc will allow you to write out all registrants for a battle for a level. Then putting the scores in for all three judges from prelims will automatically rank the breakers and divide them into brackets for you. When you visit the link make sure you go to File, Make A Copy, then fill out the registrants. This works hand in hand with the Cypher Prelim Judges Form above. Make sure the kids on the judges form are in the same order in the google doc and in the same order they do prelims in. 
+* [Cypher Prelim Judges Form PDF](https://rules.rockdafloor.com/Cypher_Prelims_Judges_Form.pdf) - Use this sheet to judge all dancers within the cypher prelims. Judges may score in whole numbers 1-10, halves (6.5, 7.5, etc.), or one decimal place (9.4, 8.2, etc.). Finer increments are recommended for larger fields to help prevent ties.
+* [Top 8 Bracket PDF](https://rules.rockdafloor.com/Top_8_Bracket.pdf) - Bracket sheets are built in segments of 8.
+* [Battle Plan PDF](https://rules.rockdafloor.com/Battle_Plan.pdf) - A Battle Plan helps dancers learn to organize their skills for battle. It is not meant to be a hard script, but a dynamic template dancers refine as they progress and learn when their moves make the most impact.
+* [Battle Prelims Scoring Template (Google Sheet)](https://docs.google.com/spreadsheets/d/1NKNfbeRPNTsluH5GWLX2HVe4KIpmVmhx-tA-0VYQ-YI/edit?usp=sharing) - Enter all registrants for a Level, then enter all three judges' prelim scores, and the sheet automatically ranks the breakers and divides them into brackets. Go to File, then Make A Copy before filling it out. This works hand in hand with the Cypher Prelim Judges Form above—make sure the dancers appear on the judges form, in the Google Sheet, and in the prelims performance order in the same order.
 
 ### Safety
 
 The safety of every dancer is a top priority. While breaking is an expressive and physically demanding art form, it must be approached with discipline and awareness to prevent injury.
 
-Dancers are strongly encouraged to perform and compete only with moves and skills that are within their current level of training and proficiency. Attempting advanced skills too early—before proper strength, control, and technique are developed—can lead to serious injury or even death. For this reason, skills performed outside a dancer’s declared level will not be recognized during competition.
+Dancers are strongly encouraged to perform and compete only with moves and skills that are within their current level of training and proficiency. Attempting advanced skills too early—before proper strength, control, and technique are developed—can lead to serious injury or even death. For this reason, skills performed outside a dancer's declared Level will not be recognized during competition.
 
-Proper attire is also essential to safety. Because every dancer’s style and movement vary, there is no one-size-fits-all dress code. However, dancers must avoid wearing items that present a hazard, including:
+Proper attire is also essential to safety. Because every dancer's style and movement vary, there is no one-size-fits-all dress code. However, dancers must avoid wearing items that present a hazard, including:
 
 * Clothing with hard elements that may obstruct movement
 * Jewelry that can catch or snag during dynamic motion
@@ -69,131 +68,177 @@ For younger dancers, coaches and guardians play a critical role in helping ensur
 
 Breaking is about pushing limits—but it must be done with care, respect for the body, and commitment to long-term progression.
 
-Dancers are not allowed to physically touch any other dancer while battling. The only exception is interaction within their own crew while in the crew battle. The battle host may warn dancers who violate this rule, and have the right to disqualify any dancer who refuses to follow this rule. 
+Dancers are not allowed to physically touch any other dancer while battling. The only exception is interaction within their own crew during a crew battle. The Battle Host may warn dancers who violate this rule and has the right to disqualify any dancer who refuses to follow it.
 
 ### Skill Recognition
 
-Each skill level is defined by specific criteria and only skills within the designated level are recognized. Performing a skill above the assigned level does not result in a penalty; however, judges are instructed to disregard the move as if it had not occurred.
+Each skill Level is defined by specific criteria, and only skills within the designated Level are recognized. Performing a skill above the assigned Level does not result in a penalty; however, judges are instructed to disregard the move as if it had not occurred. This applies to every part of an RDF event: prelims, 1v1 battles, crew Showcase Routines, and crew battles.
 
-Example: If a competitor registers for the Beginner level and performs Air Flares, the judges will not acknowledge the move. While the audience may react positively, and even the judges may appreciate the difficulty of the skill, it will hold no value in determining who wins. For judging purposes, the competitor’s performance during the execution of the Air Flares is equivalent to standing still. As a result, a competitor who demonstrates skills aligned with the Beginner level will have a competitive advantage and be more likely to win the battle.
+Example: If a competitor registers for the Beginner Level and performs Air Flares, the judges will not acknowledge the move. While the audience may react positively, and even the judges may appreciate the difficulty of the skill, it will hold no value in determining who wins. For judging purposes, the competitor's performance during the execution of the Air Flares is equivalent to standing still. As a result, a competitor who demonstrates skills aligned with the Beginner Level will have a competitive advantage and be more likely to win the battle.
 
 ### Divisions
 
-Dancers will be divided up into their respoective skill level and age level. Ages can always compete up, but never down. Gender splits may occur at the Battle Hosts preference if there are at least 4 dancers to support each split. 
+Dancers compete within a skill Level (see [Levels](#levels)) and an age Division. A dancer's Division is set by their age on May 1st—the start of the RDF season—and holds for the entire season. A dancer who has a birthday mid-season keeps competing in the Division they started the season in, so nobody ages away from their friends partway through the year.
 
 * Lil Breakers: Age 5-7
-* Youth: Age 7-13
+* Youth: Age 8-12
 * Teen: Age 13-18
 * Adult: Age 18+
 
+A dancer who is 18 on May 1st may choose to compete in either Teen or Adult for the season. Dancers may always compete up in age, but never down. Gender splits may occur at the Battle Host's discretion if there are at least 4 dancers to support each split.
+
+The one exception to the May 1st rule is the entry floor: a dancer must be at least 5 years old on the day of the event to compete. A dancer who is 4 on May 1st may begin competing in Lil Breakers once they turn 5 during the season.
+
 ### Number Of Dancers
 
-The minimum amount of dancers within a level and division to run a Cypher prelims and Top 8 Bracket is 4. If you have less than 4 dancers, you may use alternative methods to determine your placements in battle. 
+The minimum number of dancers within a Level and Division to run Cypher Prelims and a Top 8 Bracket is 4. If you have fewer than 4 dancers, you may use alternative methods to determine placements:
 
-* 3 Dancers Suggestion - Use a Round Robin approach (each dancer battles the other two) to determine placements. 
-* 2 Dancers Suggestion - Use a multi battle strategy where they can compete for best of 3 battles.
+* 3 Dancers Suggestion - Use a Round Robin approach (each dancer battles the other two) to determine placements.
+* 2 Dancers Suggestion - Use a multi-battle strategy where they compete for best of 3 battles.
 
 ### Cypher
 
-Every Cypher must provide a smooth safe surface for each dancer to safely perform any breaking move. The area must be clear of all obstructions and have a defined and easily understood outer barrier where the dancers know they can perform and the audience knows to stay out. The Cypher must have an area at least 12' by 12'. 
+Every Cypher must provide a smooth, safe surface for each dancer to safely perform any breaking move. The area must be clear of all obstructions and have a defined, easily understood outer barrier so dancers know where they can perform and the audience knows to stay out. The Cypher must have an area of at least 12' by 12'.
 
 ### Prelims
 
-All dancers within a level will perform, one by one and organized by a list managed by the Cypher MC, in front of the judges. The judges will assign a value of 1-10 (using halfs or decimals depending on how many dancers are competing) to each dancer as they perform. These values are added up, and the dancers are organized from highest to smallest total. Where the dancer falls within that list determines their ranking for brackets. The dancer with the highest prelim score will be the #1 seed. The second highest score would be the #2 seed. If there were 20 dancers that are competing the lowest scored dancer would be the #20 seed. 
+All dancers within a Level will perform one by one, in an order managed by the Cypher MC, in front of the judges. Music for prelims and all battle rounds is provided by the event DJ. The Battle Ref begins the count-off on every prelim round at approximately 30 seconds, regardless of Level (see [Round Timing And Count-Offs](#round-timing-and-count-offs)).
+
+Judges assign each dancer a score from 1-10—whole numbers, halves, or one decimal place, matching the scoring increments on the Cypher Prelim Judges Form. The judges' scores are added together, and dancers are ranked from highest to lowest total. That ranking determines bracket seeding: the highest total is the #1 seed, the second highest is the #2 seed, and so on. If 20 dancers compete, the lowest-scored dancer is the #20 seed.
+
+If two dancers tie in total prelim score, the head judge's individual score breaks the tie. If still tied, each dancer performs one additional short round and the judges re-rank them.
 
 ### Brackets
 
-All dancers within a level and age group will be divided into their own Top 8 Bracket. The bracket positions will be decided based on the dancers seeding from prelims. When looking at the bracket you will see the top see (#1 seed) will first battle the lowest seed (#8). The second seed (#2 seed) will battle the second lowest seed (#7). This rewards each seed by placing the highest performing dancer and giving them the statistically 'easiest path' to the finals, and sets up the final battle to be the most competitive. 
+All dancers within a Level and age Division will be divided into their own Top 8 Bracket. Bracket positions are decided by seeding from prelims. On the bracket, the top seed (#1) first battles the lowest seed (#8), and the second seed (#2) battles the second-lowest seed (#7). This rewards prelim performance by giving the highest-performing dancers the statistically easiest path to the Finals, and sets up the Finals to be the most competitive battle.
 
 #### Byes
 
-If there are not enough division to fill a bracket, you will use 'byes' to fill in the lowest seeded spots. 
+If there are not enough dancers to fill a bracket, use 'byes' to fill in the lowest-seeded spots.
 
 **Example**
 
-There are 6 dancers within a division. Seed #7 and seed #8 will be filled in as 'byes' on the Top 8 Bracket form. This means seed #1 and seed #2 get a bye on Round 1, and immediately make it to the Semi Finals. 
+There are 6 dancers within a Division. Seed #7 and seed #8 will be filled in as 'byes' on the Top 8 Bracket form. This means seed #1 and seed #2 get a bye in the Quarterfinals and advance straight to the Semifinals.
 
 #### Multiple Brackets For Same Level And Division
 
-If there is more than 8 dancers within a level and division you will be creating multiple Top 8 Brackets for dancers to compete in. The brackets are labeled with a number-letter. The number tells you what bracket it is, and the letter tells you how many brackets. If a bracket was 2-C, that means it is the second highest bracket (2) and there are 3 total brackets (C=3). How many brackets there are depends on the number of dancers. If you have one more dancer above a multiple of 8, you have a new bracket. (one bracket with 8 or less, two brackets with 16 or less until 8, 3 brackets with 24 or less until 16... ). For 3 or more brackets you always take full brackets for the top, and divide the last two brackets like below. Use byes to fill out an incomplete bracket. 
+If there are more than 8 dancers within a Level and Division, create multiple Top 8 Brackets. Brackets are labeled number-letter: the number is the bracket's rank, and the letter shows how many total brackets exist (A=1, B=2, C=3...). A bracket labeled 2-C is the second-highest bracket of three total. In the splits below, "Bracket 1" refers to the highest bracket (1-B when there are two brackets).
 
-How the brackets are divded is listed below:
+How many brackets you need depends on the field size: 1-8 dancers is one bracket, 9-16 is two brackets, 17-24 is three brackets, and so on—each dancer above a multiple of 8 opens a new bracket. Use byes to fill out any incomplete bracket.
 
-*  9 dancers - The '1' Bracket will get 5 dancers and the '2' Bracket will get 4 dancers
-* 10 dancers - The '1' Bracket will get 5 dancers and the '2' Bracket will get 5 dancers
-* 11 dancers - The '1' Bracket will get 6 dancers and the '2' Bracket will get 5 dancers
-* 12 dancers - The '2' Bracket will get 6 dancers and the '2' Bracket will get 6 dancers
-* 13 dancers - The '1' Bracket will get 7 dancers and the '2' Bracket will get 6 dancers
-* 14 dancers - The '1' Bracket will get 7 dancers and the '2' Bracket will get 7 dancers
-* 15 dancers - The '1' Bracket will get 8 dancers and the '2' Bracket will get 7 dancers
-* 16 dancers - The '1' Bracket will get 8 dancers and the '2' Bracket will get 8 dancers
-* 17 dancers - At this point there is always enough to fill the '1' Bracket. You will fill the '1' Bracket with the Top 8 seeds, and then divide the rest of the dancers between a '2' and '3' bracket. If there were enough dancers to always fill the '2' Bracket as well (24+ dancers), you would always fill the '1' and '1' Brackets, and divide the dancers between a '3' and '3' bracket. This pattern continues on as the amount of dancers grow. 
+Splits for two brackets:
 
-#### Battle Timing
+*  9 dancers - Bracket 1 gets 5 dancers and Bracket 2 gets 4 dancers
+* 10 dancers - Bracket 1 gets 5 dancers and Bracket 2 gets 5 dancers
+* 11 dancers - Bracket 1 gets 6 dancers and Bracket 2 gets 5 dancers
+* 12 dancers - Bracket 1 gets 6 dancers and Bracket 2 gets 6 dancers
+* 13 dancers - Bracket 1 gets 7 dancers and Bracket 2 gets 6 dancers
+* 14 dancers - Bracket 1 gets 7 dancers and Bracket 2 gets 7 dancers
+* 15 dancers - Bracket 1 gets 8 dancers and Bracket 2 gets 7 dancers
+* 16 dancers - Bracket 1 gets 8 dancers and Bracket 2 gets 8 dancers
 
-To run battles efficiently as possible having an organized timing of the event that is announced to all participants, coaches, and parents is important. There are three times for each battle session that need to be announced. 
+With 17-24 dancers, fill Bracket 1 with the top 8 seeds, then divide the remaining dancers between Brackets 2 and 3 using the same split pattern above. With 25-32 dancers, fill Brackets 1 and 2 with the top 16 seeds, then divide the remainder between Brackets 3 and 4. This pattern continues as the field grows: completely fill every bracket you can from the top, then split the remainder across the final two brackets.
 
-* Doors Open Time - This is the time people are allowed to come into the venue
-* Warmup Time - This is an optional time announced for a coach led group warmup
-* Regisration Closes / Cypher Prelims Begin - This is the time no one is allowed to register for the event anymore and the prelims section begins.
+Every bracket runs the full set of stages and awards its own 1st, 2nd, and 3rd place—a Third Place Battle happens in every bracket, not just Bracket 1. A podium finish in a lower bracket is a real placement. Recognition at every level of the event keeps dancers motivated, progressing, and coming back.
 
-Following these announced times is key to keeping the event on schedule. For example times we would recommend:
+### Battle Format And Judging
 
-* Doors Open 45 minutes before Cypher Prelims Begin
-* Warmups Begin 15 Minutes before Cypher Prelims Begin
-* Set your start time of Cypher Prelims to begin. Note you should not let anyone else register after prelims has begun. 
+At RDF, a round always means one turn on the floor—a single dancer's (or crew's) trip into the cypher. Bracket stages are never called rounds. In a Top 8 Bracket, the stages are the Quarterfinals, the Semifinals, the Third Place Battle, and the Finals.
+
+Quarterfinal and Semifinal battles are one round per dancer. The Third Place Battle—between the two Semifinal losers—is one round per dancer. The Finals are two rounds per dancer, alternating sides.
+
+If a dancer is not present when their battle is called, their opponent advances by walkover.
+
+Judging works the same way in every battle at RDF, 1v1 or crew. Judges do not award points round by round. After the final round, each judge picks who they think won the battle—pointing Left, pointing Right, or crossing their arms (X) for a tie. The majority decides. If the judges' vote lands in a tie, each side performs one additional round and the judges vote again. All events use an odd number of judges, with three recommended. Judges' decisions are final.
+
+Round timing is handled by the count-off system, set by Level (see [Round Timing And Count-Offs](#round-timing-and-count-offs)).
+
+### Round Timing And Count-Offs
+
+Rounds at RDF are timed to the music, not a stopwatch. The Battle Ref (or MC) begins the count-off at approximately the target time for the round, starting on the beat, so that rounds end with the phrasing of the music—no awkward endings in the middle of a beat or eight-count.
+
+Count-off start times:
+
+* Cypher Prelims (all Levels): ~30 seconds
+* Intro and Beginner battle rounds: ~20 seconds
+* Intermediate battle rounds: ~30 seconds
+* Advanced battle rounds: ~45 seconds
+* Pro battle rounds: no count-off
+* Crew battle rounds (all crew Levels): ~1 minute
+
+The count-off is a countdown from 5, called to the beat: "5" is held for four counts, "4" is held for four counts, then "3", "2", and "1" take two counts each, followed by the Battle Ref calling "FREEZE!" The FREEZE call is a moment for the dancer—hitting a clean freeze right on the call is a strong, musical way to end a round. Skills performed after the FREEZE call are not recognized.
+
+### Event Schedule And Run Of Show
+
+To run battles as efficiently as possible, an organized event timeline announced to all participants, coaches, and parents is important. There are three times for each battle session that need to be announced:
+
+* Doors Open Time - The time people are allowed to enter the venue
+* Warmup Time - An optional announced time for a coach-led group warmup
+* Registration Closes / Cypher Prelims Begin - The time registration ends and the prelims section begins. No one may register after prelims has begun.
+
+Recommended timeline:
+
+* Doors open 45 minutes before Cypher Prelims begin
+* Warmups begin 15 minutes before Cypher Prelims begin
+* Set a firm start time for Cypher Prelims
+
+The run of show is always the same:
+
+1. Cypher Prelims - Levels run lowest to highest (Intro, Beginner, Intermediate, Advanced, Pro). Within a Level, if the field is split into age Divisions, prelims run youngest to oldest before moving to the next Level. Age Division splits only happen when there are enough athletes to support them.
+2. Crew Showcase Routines - Performance order is random. While showcases run, the scoring table tabulates prelim scores and builds the brackets.
+3. Bracket Announcement - Seeds and brackets are announced once the Showcase Routines are complete.
+4. Top 8 Brackets - Brackets run one stage at a time across the whole event: all Quarterfinals first, then all Semifinals, then all Third Place Battles, then all Finals. Within each stage, battles run lowest Level to highest; within a Level, youngest age Division to oldest; and where a group has multiple brackets, lowest bracket to highest (3-C, then 2-C, then 1-C). A bracket whose Quarterfinals are all byes simply skips that stage.
+5. Crew Battle Announcement - After the last Final (highest Level, highest bracket), the crews that qualified from the Showcase Routines are announced.
+6. Crew Battles - Crew battles run lowest Level to highest. If a Level advanced 4 or 8 crews, earlier crew bracket stages run first across all Levels, then the crew Third Place Battles, then the crew Finals, lowest Level to highest.
+7. Awards - All awards are presented after the crew battles, in the same lowest-to-highest order. Every bracket receives its own awards.
+
+This run of show is built for events of roughly 40-50 dancers. Larger events will require a different structure, and updated formats will be published as RDF grows.
 
 ## Levels
 
-To support fair competition and healthy progression, dancers may choose to compete in any level that reflects their current ability—except for the Intro level, which is reserved exclusively for dancers in their first year of breaking. This level exists to provide a welcoming space for true beginners to grow alongside others at a similar stage.
+To support fair competition and healthy progression, dancers may choose to compete in any Level that reflects their current ability—except for the Intro Level, which is reserved exclusively for dancers within their first 12 months of breaking. This Level exists to provide a welcoming space for true beginners to grow alongside others at a similar stage. The Battle Host reserves the right to move a dancer up a Level when their demonstrated skill clearly exceeds the Level they registered for.
 
-Each level is defined by a set of recognized skills. If a dancer performs skills above the level they’ve registered for, judges are instructed to ignore those moves entirely. This allows dancers to focus on mastery and style within their chosen level, rather than being rewarded for prematurely attempting advanced tricks.
+Dancers may compete in one 1v1 Level per event. A dancer who also competes on a crew must compete 1v1 at the same Level as their crew: an Advanced crew member must do Advanced breaking, and an Intermediate crew member cannot compete up to Advanced. The one exception: an Intro-eligible dancer on a Beginner crew may still compete 1v1 in Intro.
 
-The Pro level is unique in that it recognizes the professional level of Breaking. It is the only level to allow monetary prizes. 
+Each Level is defined by a set of recognized skills. If a dancer performs skills above the Level they've registered for, judges are instructed to ignore those moves entirely. This allows dancers to focus on mastery and style within their chosen Level, rather than being rewarded for prematurely attempting advanced tricks.
+
+Advanced and Pro are the only Levels with monetary prizes, in both 1v1 and crew competition. The prize money available at Advanced must always be less than the prize money available at Pro. The Pro Level is unique in that it recognizes the professional level of breaking.
 
 ### Intro
 
-The Intro level has all the same skill recognitions as beginner, but is only open to athletes that are within their first year of breaking. 
+The Intro Level is open only to dancers within their first 12 months of breaking. Intro uses the exact same recognized skills as [Beginner](#beginner)—the only difference is eligibility.
 
-Battle Rounds Begin Counting At 20 Seconds
-
-* Top Rocks: All Top Rocks must have the hips and shoulders facing the same direction during the movement. Recognition is limited to variations of steps and entrances.
-* Transitions: All transitions must remain in contact with the ground.
-* Footwork: Can be performed flat handed.
-* Power Move: Should maintain contact with the ground
-	- May rotate continuously on parts of the torso
-	- May alternate between 4 points of contact with the ground
-* Freeze: If inverted must have 3 points of contact with the ground, max 2 stacks
-* Acro: Must retain physical contact with the surface at all times with no spring motion allowed
+Count-Off Begins: ~20 Seconds (see [Round Timing And Count-Offs](#round-timing-and-count-offs))
 
 ### Beginner
 
-Battle Rounds Begin Counting At 20 Seconds
+Count-Off Begins: ~20 Seconds (see [Round Timing And Count-Offs](#round-timing-and-count-offs))
 
 * Top Rocks: All Top Rocks must have the hips and shoulders facing the same direction during the movement. Recognition is limited to variations of steps and entrances.
 * Transitions: All transitions must remain in contact with the ground.
 * Footwork: Can be performed flat handed.
-* Power Move: Should maintain contact with the ground
+* Power Move: Should maintain contact with the ground
 	- May rotate continuously on parts of the torso
 	- May alternate between 4 points of contact with the ground
 * Freeze: If inverted must have 3 points of contact with the ground, max 2 stacks
 * Acro: Must retain physical contact with the surface at all times with no spring motion allowed
-   
+
 ### Intermediate
 
-Battle Rounds Begin Counting At 30 Seconds
+Count-Off Begins: ~30 Seconds (see [Round Timing And Count-Offs](#round-timing-and-count-offs))
 
 * Top Rocks: Hips and shoulders can face different directions. Higher level variations of steps and entrances are recognized.
 * Transitions: Transitions can leave the ground.
 * Footwork: Looking to be performed up on the knuckles.
-* Power Move: Power moves that rotate but do not change body orientation in relation to the ground (ex backspin) can spin as many times as they like. All power moves that change body orientation in relation to the ground (ex windmills, flairs) are recognized up to one and a quarter revolution. Pauses in between spins will allow more recognition.
+* Power Move: Power moves that rotate but do not change body orientation in relation to the ground (ex: backspin) can spin as many times as they like. All power moves that change body orientation in relation to the ground (ex: windmills, flares) are recognized up to one and a quarter revolutions. Pauses in between spins will allow more recognition.
 * Freeze: When inverted can have two points of contact with the ground.
 * Acro: Can alternate between hands and feet.
 
-
 ### Advanced
 
-Battle Rounds Begin Counting At 45 Seconds
+Advanced battles carry monetary prizes. Prize money at Advanced is always less than Pro (see [Levels](#levels)).
+
+Count-Off Begins: ~45 Seconds (see [Round Timing And Count-Offs](#round-timing-and-count-offs))
 
 * Top Rocks: Hips and shoulders can face different directions. Higher level variations of steps and entrances are recognized.
 * Transitions: Transitions can leave the ground.
@@ -204,10 +249,9 @@ Battle Rounds Begin Counting At 45 Seconds
 
 ### Pro
 
-The Pro Level is for athletes who have competed at a high level in events and are competing
-at events to win money. This is the only 1v1 division at an RDF battle that has monetary prizes. 
+The Pro Level is for athletes who have competed at a high level and are competing at events to win money. Pro carries the largest monetary prizes at an RDF battle.
 
-Battle Rounds Begin Counting At One Minute
+Count-Off: None — Pro rounds are not counted off.
 
 * Top Rocks: Hips and shoulders can face different directions. Higher level variations of steps and entrances are recognized.
 * Transitions: Transitions can leave the ground.
@@ -216,67 +260,42 @@ Battle Rounds Begin Counting At One Minute
 * Freeze: Can have one point of contact
 * Acro: Acro up to one flip and two twists, in any combination
 
-## Crew Showcase Routines and Battles Overview
+## Crew Showcase Routines And Battles
 
-Crew battles are one of the most exciting parts of breaking—where teamwork, creativity, and performance come together on the floor. It’s not just about individual skills—it’s about chemistry, timing, and the story your crew tells through movement.
+Crew battles are one of the most exciting parts of breaking—where teamwork, creativity, and performance come together on the floor. It's not just about individual skills—it's about chemistry, timing, and the story your crew tells through movement.
 
-For the 2025–2026 season, each crew may have up to five dancers on the floor during their Showcase Routine. Crews will have up to 2½ minutes to perform a choreographed Showcase Routine to music provided by the crew. Judges will watch the full performance and score it based on execution, originality, synchronization, use of breaking elements, and overall impact.
+### Crew Levels And Eligibility
 
-After all crews have performed and the scores are tabulated, the top-scoring teams will move into battle rounds to determine the winner. At minimum, the top 2 crews will advance. If participation allows, we will expand to top 4 or top 8 for bracket-style battles.
+For the 2026-2027 season, crews compete within skill Levels: Beginner, Intermediate, Advanced, and Pro. Each crew follows all of the skill recognition rules of its Level (see [Levels](#levels)) in both the Showcase Routine and battle rounds. Skills performed outside the crew's Level rules are not recognized.
 
-Crew routines should be a showcase of unity, style, and stage presence—this is your moment to shine together. For this first season there is no level separation between crews.
+A crew is 4 to 7 dancers. Crews with fewer than 4 or more than 7 dancers may still perform and be judged for feedback, but as exhibition only—exhibition crews cannot place or advance to the battle rounds.
+
+A dancer may compete on one crew per event. Dancers who compete on a crew must compete 1v1 at the same Level as their crew, with the Intro exception noted in [Levels](#levels).
+
+Crews are split by age Division only when there are enough crews to support it; otherwise ages are combined within a Level. Levels are never combined—an Advanced crew of 5-7 year olds will never battle a Beginner crew of 5-7 year olds. When age splits are used, a crew competes in the age Division of its oldest dancer.
+
+Advanced and Pro crews battle for monetary prizes. Prize money for Advanced crews must always be less than prize money for Pro crews.
 
 ### Crew Showcase Routine Rules
 
-All routines must be 2:30 minutes or less. For every full 5 seconds over the 2:30 a crew is still performing, the final placement will be lowered by one. Timing of the routine will be measured from the first sound / noise / piece of music from the routine before performed. 
+Crews have up to 2 minutes 30 seconds to perform a choreographed Showcase Routine to music provided by the crew. Crews must submit their showcase music to the event DJ before registration closes. Judges score the routine on execution, originality, synchronization, use of breaking elements, and overall impact. Judges stop judging at 2:30—anything performed after that point is not scored. Timing is measured from the first sound of the crew's music.
 
-Showcase Routines may contain up to 5 people in the performance at one time. The same 5 dancers that start the routine must remain the same the entire routine (no substituting dancers in and out during the routine). Routines may use less than 5 dancers, but must have at least 3 to be a crew.
+The same dancers that start the routine must perform the entire routine—no substituting dancers in or out during the routine.
 
-If there are 3 or more crews performing Showcase Routines, only the top routines will be selected to move on to the Battle rounds. Performance and placement of their Showcase Routine will determine seeding for the battle round, but will not have any other carry over for battles. 
+Within each Level: if 3 or more crews perform Showcase Routines, the top-scoring crews advance to the battle rounds (top 2 at minimum; top 4 or top 8 if participation allows—the Battle Host will announce the advancement count before showcases begin). Showcase placement determines battle seeding but carries no other weight into the battles. If two crews tie in showcase score for the final advancing spot, the head judge's score breaks the tie; if still tied, both crews advance.
 
-If there are only 2 crews performing Showcase Routines, the winner will get one point. As there are only two crews, they will both move on and battle. The winner of the crew battle will also receive one point. If the two crews split the points, there will be a 1v1 battle between each crews best dancer. The winner of this 1v1 will determine the crew winner. 
+If only 2 crews perform in a Level, the showcase winner earns one point, and both crews advance to battle. The winner of the crew battle also earns one point. If the crews split the points, each crew selects one dancer for a single-round 1v1 tiebreaker, and the winner of that round decides the overall crew champion.
 
 ### Crew Battle Rules
 
-Each crew will have 3 total rounds to battle another crew. Judges will award, per judge, one point to either crew each round. The winner of the crew battle will have the most points. 
+A crew battle is a 5-round vs 5-round (5v5) dance battle—each crew gets 5 rounds, alternating sides. Each round, a crew may send out one dancer or multiple dancers. Multiple dancers per round is preferred: routines, commando moves, and teamwork are what separate a crew battle from a 1v1.
 
-Each side will get up to 1 minute per round for their crew to perform. 
+When a Level advances 4 or 8 crews, the crew battles run as a seeded bracket with the same stages as 1v1: earlier stages first, a Third Place Battle between the Semifinal losers, then the Finals. Every crew battle, including the Third Place Battle, is the full 5-round format.
 
-No assisted tumbling (example: toe pitch back tucks) are allowed. All other breaking safety rules are allowed. 
+The Battle Ref begins the count-off on each crew round at approximately 1 minute (see [Round Timing And Count-Offs](#round-timing-and-count-offs)). Battle round music is provided by the event DJ.
 
-## Bandana Skills Progression
+Judges do not award points round by round. After the final round, each judge simply picks the crew they think won the battle—Left, Right, or crossed arms (X) for a tie. The majority decides. If the judges' vote lands in a tie, each crew performs one additional round and the judges vote again.
 
-To help give coaches, parents, and BBoys and BGirls a progressive path to learn and develop skills we introduce a colored bandana system. All skills goals to earn each bandana help to prepare and develop the dancer into the following bandana, and compete in the level of each bandana. All skills within the bandana are allowed to battle in the level they are associated with. 
+Crew battles move fast. When one crew's round ends, the opposing crew is expected to take the floor immediately. A crew that hesitates too long (at the Battle Ref's discretion) can have that round stolen by the other crew going again. Be ready, be aggressive, and take the floor quickly—do not hesitate.
 
-### Intro / Beginner Bandanas
-
-#### White
-
-#### Yellow
-
-### Intermediate Bandanas
-
-#### Orange
-
-#### Blue
-
-#### Purple
-
-### Advanced Bandanas
-
-#### Green
-
-#### Red
-
-#### Camo
-
-### Elite Bandanas
-
-#### Black
-
-## Skill Development
-
-Though there are defined guidelines for each level of competition, each breaker and each school will develop progressions and skills in an order that most benefits their students. We have created a Skill Progress Sheet so that each school can tailor the skills individually for each breaker, and mark as they attain those skills. Notice the skill sheet does not specifically refer to how a skill should look, but how well they perform the skill in the eyes of the coach / studio. There is recognition for attempting a skill as just attempting takes effort and encourages development. 
-
-* [Skill Progress Sheet PDF](https://rules.rockdafloor.com/Skill_Progress_Sheet.pdf) - Use this sheet to create a list of skills for a BBoy or Bgirl and mark their progress so they (and their parents) can see development. 
-
+No assisted tumbling (example: toe pitch back tucks) is allowed. All other breaking safety rules apply.
