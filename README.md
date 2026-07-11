@@ -116,8 +116,8 @@ Prelim scores measure what the dancer is expressing within their Level—not aga
 
 There is no set criteria, but the rubric below gives judges anchor points. Judge in two steps: first decide which band the dancer's round lives in, then decide how strong they are within that band. "This kid is strong for Beginner—how strong? Feels like an 8.7."
 
-| Score | Description |
-| ------- | ------ |
+|  Score  | Description |
+| ---------- | --------- |
 | 7.0 – 10.0 | Strong vocabulary and execution for the skills within the Level. A wide variety of recognized skills performed with control, clean technique, and confidence—rounds feel full and intentional. |
 | 4.0 – 7.0 | Intermediate vocabulary and/or execution of the skills within the Level. A solid foundation: either a narrower set of skills performed well, or a wider set performed inconsistently. |
 | 1.0 – 4.0 | Weak vocabulary and/or execution of the skills within the Level. Few recognized skills, repeated material, or frequent breaks in control and technique. |
