@@ -33,6 +33,7 @@
 	- [Crew Showcase Routine Rules](#crew-showcase-routine-rules)
 		- [Showcase Scoresheet And Rubrics](#showcase-scoresheet-and-rubrics)
 	- [Crew Battle Rules](#crew-battle-rules)
+- [Glossary](#glossary)
 
 ## General Rules
 
@@ -241,7 +242,7 @@ To support fair competition and healthy progression, dancers may choose to compe
 
 Dancers may compete in one 1v1 Level per event. A dancer who also competes on a crew must compete 1v1 at the same Level as their crew: an Advanced crew member must do Advanced breaking, and an Intermediate crew member cannot compete up to Advanced. Your whole day of dance battling is one Level—Showcase Routine, crew battles, Cypher Prelims, and 1v1 brackets all happen at the crew's Level. Crew-locked dancers cannot move Levels mid-event, by choice or by Battle Host bump; the forfeit rules in [Out Of Level Enforcement](#out-of-level-enforcement) apply instead. The one exception: an Intro-eligible dancer on a Beginner crew may still compete 1v1 in Intro.
 
-Each Level is defined by a set of recognized skills. If a dancer performs skills above the Level they've registered for, judges are instructed to ignore those moves entirely. This allows dancers to focus on mastery and style within their chosen Level, rather than being rewarded for prematurely attempting advanced tricks.
+Each Level is defined by a set of recognized skills. If a dancer performs skills above the Level they've registered for, judges are instructed to ignore those moves entirely. This allows dancers to focus on mastery and style within their chosen Level, rather than being rewarded for prematurely attempting advanced tricks. Skill examples throughout this section are illustrative, not exhaustive: whether a skill is recognized comes from the rule line itself, not from whether the skill happens to be named.
 
 The Pro Level is unique in that it recognizes the professional level of breaking.
 
@@ -255,35 +256,35 @@ Count-Off Begins: ~20 Seconds (see [Round Timing And Count-Offs](#round-timing-a
 
 Count-Off Begins: ~20 Seconds (see [Round Timing And Count-Offs](#round-timing-and-count-offs))
 
-* Top Rocks: All Top Rocks must have the hips and shoulders facing the same direction during the movement. Recognition is limited to variations of steps and entrances.
-* Transitions: All transitions must remain in contact with the ground.
-* Footwork: Can be performed flat handed.
-* Power Move: Should maintain contact with the ground
+* Top Rocks: All Top Rocks must have the hips and shoulders facing the same direction during the movement. Recognition is limited to variations of steps and entrances. (ex: Indian Steps, Side Steps, March Steps, basic rocking)
+* Transitions: All transitions must remain in contact with the ground. (ex: knee drops, corkscrews, squat drops, spin downs, cartwheels)
+* Footwork: Can be performed flat handed. (ex: 2-steps, 3-steps, 6-steps, CCs, sweeps, coffee grinders)
+* Power Move: Should maintain contact with the ground (ex: booty spins, backspins)
 	- May rotate continuously on parts of the torso
 	- May alternate between 4 points of contact with the ground
-* Freeze: If inverted must have 3 points of contact with the ground, max 2 stacks
+* Freeze: If inverted must have 3 points of contact with the ground, max 2 stacks (ex: baby freezes, chair freezes, bridges, headstands)
 * Acro: Must retain physical contact with the surface at all times with no spring motion allowed
 
 ### Intermediate
 
 Count-Off Begins: ~30 Seconds (see [Round Timing And Count-Offs](#round-timing-and-count-offs))
 
-* Top Rocks: Hips and shoulders can face different directions. Higher level variations of steps and entrances are recognized.
-* Transitions: Transitions can leave the ground.
-* Footwork: Looking to be performed up on the knuckles.
-* Power Move: Spins on the torso (ex: backspins, booty spins) can spin as many times as they like. All other power moves (ex: windmills, flares, headspins) are recognized for one revolution. Intent decides the edge: momentum carrying a spin past one revolution is fine; continuous, controlled rotations beyond one are out of level. Pauses reset the count—each revolution after a clean stop is a new recognized move.
-* Freeze: When inverted can have two points of contact with the ground.
+* Top Rocks: Hips and shoulders can face different directions. Higher level variations of steps and entrances are recognized. (ex: kick crosses, salsa steps, Charlie Rocks, jerk variations)
+* Transitions: Transitions can leave the ground. (ex: coin drops, hook drops, back handsprings, front swings)
+* Footwork: Looking to be performed up on the knuckles. (ex: 6-steps up on the knuckles, half sweeps, pretzels, Around the Worlds, Frosty Freezes)
+* Power Move: Spins on the torso (ex: backspins, booty spins) can spin as many times as they like. All other power moves (ex: swipes, windmills, flares, headspins) are recognized for one revolution. Intent decides the edge: momentum carrying a spin past one revolution is fine; continuous, controlled rotations beyond one are out of level. Pauses reset the count—each revolution after a clean stop is a new recognized move.
+* Freeze: When inverted can have two points of contact with the ground. (ex: handstands, shoulder freezes, elbow freezes, turtles, head-and-hand chairs)
 * Acro: Can alternate between hands and feet.
 
 ### Advanced
 
 Count-Off Begins: ~45 Seconds (see [Round Timing And Count-Offs](#round-timing-and-count-offs))
 
-* Top Rocks: Hips and shoulders can face different directions. Higher level variations of steps and entrances are recognized.
-* Transitions: Transitions can leave the ground.
-* Footwork: Looking to be performed up on the knuckles.
-* Power Move: No limitations
-* Freeze: Can have one point of contact
+* Top Rocks: Hips and shoulders can face different directions. Higher level variations of steps and entrances are recognized. (ex: full toprock vocabulary—complex step variations, rhythm and direction changes)
+* Transitions: Transitions can leave the ground. (ex: aerial drops, jump coin drops, power step-ins)
+* Footwork: Looking to be performed up on the knuckles. (ex: full sweeps, switch-ups, threaded patterns)
+* Power Move: No limitations (ex: continuous windmills, flares, halos, headspin drills, airflares)
+* Freeze: Can have one point of contact (ex: airchairs, airbabies, one-hand freezes)
 * Acro: Acro up to one flip with no twists
 
 ### Pro
@@ -292,11 +293,11 @@ The Pro Level is for athletes who have competed at a high level in events.
 
 Count-Off: None — Pro rounds are not counted off.
 
-* Top Rocks: Hips and shoulders can face different directions. Higher level variations of steps and entrances are recognized.
-* Transitions: Transitions can leave the ground.
-* Footwork: Looking to be performed up on the knuckles.
-* Power Move: No limitations
-* Freeze: Can have one point of contact
+* Top Rocks: Hips and shoulders can face different directions. Higher level variations of steps and entrances are recognized. (ex: full toprock vocabulary with signature style)
+* Transitions: Transitions can leave the ground. (ex: full aerial transitions)
+* Footwork: Looking to be performed up on the knuckles. (ex: threaded combinations and original patterns)
+* Power Move: No limitations (ex: airflares, elbow airflares, 2000s, full power combos)
+* Freeze: Can have one point of contact (ex: extended airchairs, hollowbacks, one-hand freeze variations)
 * Acro: Acro up to one flip and two twists, in any combination
 
 ### Out Of Level In Practice
@@ -398,3 +399,49 @@ Judges do not award points round by round. After the final round, each judge sim
 Crew battles move fast. When one crew's round ends, the opposing crew is expected to take the floor immediately. A crew that hesitates too long (at the Battle Ref's discretion) can have that round stolen by the other crew going again. Be ready, be aggressive, and take the floor quickly—do not hesitate.
 
 No assisted tumbling (example: toe pitch back tucks) is allowed. All other breaking safety rules apply.
+
+## Glossary
+
+These are the definitions the rules and the judges use. When a rule says inverted, spin, or salto, this is exactly what it means.
+
+| Term | Definition |
+| --- | --- |
+| 6-Step | The foundational footwork pattern: six counts circling the legs around the body while the hands post on the floor. |
+| Airborne | No part of the body is in contact with the ground. |
+| Airflare | An airborne power move: continuous flares with a flight phase between hand contacts. |
+| Around The World | A footwork pattern where the legs travel a full circle around the dancer's base. |
+| Baby Freeze | An inverted freeze on the head and both hands, with a knee stabbed on one elbow—3 points of contact. |
+| Backspin | A spin on the upper back with the legs tucked—a torso spin. |
+| Bridge | A face-up arch supported on the hands and feet with the hips lifted high. |
+| CC | A fundamental footwork shuffle: the leg kicks through while the weight posts on one arm. |
+| Chair Freeze | A freeze resting on the head, one stabbed hand, and one foot—3 points of contact, body folded like sitting in a chair. |
+| Charlie Rock | A classic toprock variation—a rocking step from breaking's uprock lineage. |
+| Corkscrew | A grounded spin-down: a twisting descent from standing to the floor that never leaves the ground. |
+| Flare | A power move swinging straight legs in wide circles around the body while the weight passes from hand to hand. |
+| Footwork | Floor-level dance patterns performed on the hands and feet—6-steps, 3-steps, CCs, sweeps. Also called downrock. |
+| Freeze | A held, balanced position where all movement stops—hit it and hold it, ideally on the music. |
+| Handstand | An inverted balance on both hands with the body extended vertically. |
+| Headspin | A spin balanced on the head. |
+| Headstand | An inverted balance on the head with both hands assisting—3 points of contact. |
+| Indian Step | The foundational toprock step: alternating cross-steps in front with the hips and shoulders square. |
+| Inverted | Upside down: the hips are above the head. The freeze rules for each Level count points of contact only when a freeze is inverted. |
+| Kick Cross | A toprock variation: a kick out followed by a cross-step. |
+| On The Knuckles | Supporting weight on closed fists instead of flat palms during footwork. The footwork standard from Intermediate up. |
+| Powermove | A momentum-driven skill where the body spins or rotates continuously on the hands, head, back, or shoulders—windmills, flares, headspins, backspins. |
+| Prone | Face-down: the chest faces the ground. |
+| Push Whip | Generating rotation by pushing off the hands while whipping the hips and legs over the body—the drive mechanic behind swipes. |
+| Rotate | Any turning of the body around an axis. Spins, saltos, windmills, and swipes are all rotation; the Level rules define how much rotation is recognized. |
+| Salsa Step | A toprock variation borrowing salsa's side-step and hip twist. |
+| Salto | An airborne flip: rotation over the body's side-to-side axis, forward or backward. Governed by the Acro line of each Level. |
+| Spin | Continuous rotation around the body's head-to-toe axis while on a point of contact—booty spins, backspins, headspins. |
+| Stack | Linking one freeze directly into another without coming down; each held position counts as one stack. |
+| Supine | Face-up: the back faces the ground. |
+| Swipe | A power move where the upper body twists and the hands whip the body over as the legs swing around—one full rotation per swipe, driven by the push whip. |
+| Table Top | A face-up position supported on the hands and feet with the hips lifted and the torso flat. |
+| To The Ground | The get-down: the transition that takes the dance from upright toprock to the floor. |
+| Toprock | The upright, standing portion of the dance—steps, entrances, and character performed before going to the ground. |
+| Transition | Any movement that connects the elements—toprock into footwork, footwork into power, power into a freeze. Each Level defines whether transitions may leave the ground. |
+| Turtle | A horizontal balance on stabbed elbows with the body held flat over the hands. |
+| Upright | Standing orientation: the head is above the hips, feet toward the ground. |
+| Windmill | A power move rolling continuously across the upper back and shoulders while the legs trace wide circles. |
+| Zero Position | The neutral crouched base on the floor—weight balanced, hands ready—that footwork and transitions launch from and return to. |
