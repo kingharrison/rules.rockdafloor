@@ -8,7 +8,9 @@
 	- [Battle Documents](#battle-documents)
 	- [Safety](#safety)
 	- [Skill Recognition](#skill-recognition)
+		- [Out Of Level Enforcement](#out-of-level-enforcement)
 	- [Divisions](#divisions)
+		- [How Divisions Split](#how-divisions-split)
 	- [Number Of Dancers](#number-of-dancers)
 	- [Cypher](#cypher)
 	- [Prelims](#prelims)
@@ -25,6 +27,7 @@
 	- [Intermediate](#intermediate)
 	- [Advanced](#advanced)
 	- [Pro](#pro)
+	- [Out Of Level In Practice](#out-of-level-in-practice)
 - [Crew Showcase Routines And Battles](#crew-showcase-routines-and-battles)
 	- [Crew Levels And Eligibility](#crew-levels-and-eligibility)
 	- [Crew Showcase Routine Rules](#crew-showcase-routine-rules)
@@ -74,9 +77,20 @@ Dancers are not allowed to physically touch any other dancer while battling. The
 
 ### Skill Recognition
 
-Each skill Level is defined by specific criteria, and only skills within the designated Level are recognized. Performing a skill above the assigned Level does not result in a penalty; however, judges are instructed to disregard the move as if it had not occurred. This applies to every part of an RDF event: prelims, 1v1 battles, crew Showcase Routines, and crew battles.
+Each skill Level is defined by specific criteria, and only skills within the designated Level are recognized. An out-of-level skill is never scored—judges disregard the move as if it had not occurred—and depending on where in the event it happens, it also carries a penalty (see [Out Of Level Enforcement](#out-of-level-enforcement) below).
 
-Example: If a competitor registers for the Beginner Level and performs Air Flares, the judges will not acknowledge the move. While the audience may react positively, and even the judges may appreciate the difficulty of the skill, it will hold no value in determining who wins. For judging purposes, the competitor's performance during the execution of the Air Flares is equivalent to standing still. As a result, a competitor who demonstrates skills aligned with the Beginner Level will have a competitive advantage and be more likely to win the battle.
+Example: If a competitor registers for the Beginner Level and performs Air Flares in Cypher Prelims, the judges will not acknowledge the move. While the audience may react positively, and even the judges may appreciate the difficulty of the skill, it will hold no value in the score. For judging purposes, the competitor's performance during the execution of the Air Flares is equivalent to standing still. As a result, a competitor who demonstrates skills aligned with the Beginner Level will score higher and be more likely to win.
+
+#### Out Of Level Enforcement
+
+Where an out-of-level skill happens determines what it costs:
+
+* Cypher Prelims - The skill is not recognized, and after the round the judges will talk with the dancer (and their coach) about moving up to the appropriate Level. This is the only warning that exists at an RDF event. A dancer who agrees to move up before brackets are announced enters the new Level as its lowest seed. Dancers locked to a crew's Level get no warning—they cannot move up, so an out-of-level skill in prelims forfeits that prelim round, which is scored a 0 and seeds the dancer last.
+* 1v1 Battles - No warning. An out-of-level skill immediately forfeits the battle, and the opponent advances.
+* Crew Showcase Routines - The category the skill was performed in (Power Moves, Transitions, Freezes, etc.) drops to the lowest rubric band: judges score that category 1.0-4.0 no matter how strong the rest of the category was.
+* Crew Battles - The crew forfeits that round. Judges treat the round as if the crew did not perform it.
+
+The dancer always has the choice: stay in your Level and battle with your Level's skills, or move up and use everything you've got. What you cannot do is register down and reach up.
 
 ### Divisions
 
@@ -87,9 +101,21 @@ Dancers compete within a skill Level (see [Levels](#levels)) and an age Division
 * Teen: Age 13-18
 * Adult: Age 18+
 
-A dancer who is 18 on May 1st may choose to compete in either Teen or Adult for the season. Dancers may always compete up in age, but never down. Gender splits may occur at the Battle Host's discretion if there are at least 4 dancers to support each split.
+A dancer who is 18 on May 1st may choose to compete in either Teen or Adult for the season. Dancers may always compete up in age, but never down.
 
 The one exception to the May 1st rule is the entry floor: a dancer must be at least 5 years old on the day of the event to compete. A dancer who is 4 on May 1st may begin competing in Lil Breakers once they turn 5 during the season.
+
+#### How Divisions Split
+
+Divisions are built in three tiers, applied in this order:
+
+1. Skill Level - Always, no exceptions. Every event separates dancers by Level first, regardless of age or headcount. Levels are never combined.
+2. Age - Within a Level, dancers split into age Divisions. Any age group with fewer than 3 athletes merges with an adjacent age group instead of killing the split: the underfilled group merges into the group above it, and if the underfilled group is the oldest present, the group below merges into it. A combined division always carries the older group's label, so the younger dancers are competing up—which is always allowed—and nobody ever competes down. If merging leaves only one group, the Level simply runs with all ages combined.
+3. Gender - Checked last, on whatever groups exist after the age step, using the same rule: split only if every resulting group has at least 3 athletes. When a gender split happens, the Battle Host chooses which gender goes first, and that order holds for the entire event—prelims, every bracket stage, and awards.
+
+Worked example: 21 dancers register—7 Beginner, 7 Intermediate, 7 Advanced. Level always splits, so the event starts at 3 divisions. Within Beginner, 4 dancers are Youth and 3 are Teen: both groups clear the 3-athlete minimum, so Beginner splits into Beginner Youth and Beginner Teen. If Beginner instead had 3 Lil Breakers, 3 Youth, and 2 Teens, the underfilled Teen group merges: Lil Breakers stand alone, and Youth and Teen combine into a single Teen division, with the Youth dancers competing up. Beginner Youth's 4 dancers cannot then split by gender—there is no way to give both groups at least 3—so it stays combined.
+
+A division that lands on exactly 3 athletes runs a Round Robin instead of a Top 8 Bracket (see [Number Of Dancers](#number-of-dancers)). That is by design: the 3-athlete minimum intentionally allows small divisions with their own placements rather than folding those dancers into a group that does not fit them.
 
 ### Number Of Dancers
 
@@ -116,12 +142,12 @@ Prelim scores measure what the dancer is expressing within their Level—not aga
 
 There is no set criteria, but the rubric below gives judges anchor points. Judge in two steps: first decide which band the dancer's round lives in, then decide how strong they are within that band. "This kid is strong for Beginner—how strong? Feels like an 8.7."
 
-|  Score  | Description |
-| ---------- | --------- |
+| Score | Description |
+| --- | --- |
 | 7.0 – 10.0 | Strong vocabulary and execution for the skills within the Level. A wide variety of recognized skills performed with control, clean technique, and confidence—rounds feel full and intentional. |
 | 4.0 – 7.0 | Intermediate vocabulary and/or execution of the skills within the Level. A solid foundation: either a narrower set of skills performed well, or a wider set performed inconsistently. |
 | 1.0 – 4.0 | Weak vocabulary and/or execution of the skills within the Level. Few recognized skills, repeated material, or frequent breaks in control and technique. |
-| 0 | Scratch—a dancer who registered but did not perform. Awarding a 0 keeps the scoring sheet clean and automatically sorts scratches to the bottom. |
+| 0 | Scratch—a dancer who registered but did not perform—or a forfeited prelim round (see [Out Of Level Enforcement](#out-of-level-enforcement)). A 0 keeps the scoring sheet clean and automatically sorts to the bottom. |
 
 ### Brackets
 
@@ -199,7 +225,7 @@ Recommended timeline:
 
 The run of show is always the same:
 
-1. Cypher Prelims - Levels run lowest to highest (Intro, Beginner, Intermediate, Advanced, Pro). Within a Level, if the field is split into age Divisions, prelims run youngest to oldest before moving to the next Level. Age Division splits only happen when there are enough athletes to support them.
+1. Cypher Prelims - Levels run lowest to highest (Intro, Beginner, Intermediate, Advanced, Pro). Within a Level, if the field is split into age Divisions, prelims run youngest to oldest before moving to the next Level. Division splits follow the three-tier rules in [How Divisions Split](#how-divisions-split).
 2. Crew Showcase Routines - Performance order is random. While showcases run, the scoring table tabulates prelim scores and builds the brackets.
 3. Bracket Announcement - Seeds and brackets are announced once the Showcase Routines are complete.
 4. Top 8 Brackets - Brackets run one stage at a time across the whole event: all Quarterfinals first, then all Semifinals, then all Third Place Battles, then all Finals. Within each stage, battles run lowest Level to highest; within a Level, youngest age Division to oldest; and where a group has multiple brackets, lowest bracket to highest (3-C, then 2-C, then 1-C). A bracket whose Quarterfinals are all byes simply skips that stage.
@@ -213,7 +239,7 @@ This run of show is built for events of roughly 40-50 dancers. Larger events wil
 
 To support fair competition and healthy progression, dancers may choose to compete in any Level that reflects their current ability—except for the Intro Level, which is reserved exclusively for dancers within their first 12 months of breaking. This Level exists to provide a welcoming space for true beginners to grow alongside others at a similar stage. The Battle Host reserves the right to move a dancer up a Level when their demonstrated skill clearly exceeds the Level they registered for.
 
-Dancers may compete in one 1v1 Level per event. A dancer who also competes on a crew must compete 1v1 at the same Level as their crew: an Advanced crew member must do Advanced breaking, and an Intermediate crew member cannot compete up to Advanced. The one exception: an Intro-eligible dancer on a Beginner crew may still compete 1v1 in Intro.
+Dancers may compete in one 1v1 Level per event. A dancer who also competes on a crew must compete 1v1 at the same Level as their crew: an Advanced crew member must do Advanced breaking, and an Intermediate crew member cannot compete up to Advanced. Your whole day of dance battling is one Level—Showcase Routine, crew battles, Cypher Prelims, and 1v1 brackets all happen at the crew's Level. Crew-locked dancers cannot move Levels mid-event, by choice or by Battle Host bump; the forfeit rules in [Out Of Level Enforcement](#out-of-level-enforcement) apply instead. The one exception: an Intro-eligible dancer on a Beginner crew may still compete 1v1 in Intro.
 
 Each Level is defined by a set of recognized skills. If a dancer performs skills above the Level they've registered for, judges are instructed to ignore those moves entirely. This allows dancers to focus on mastery and style within their chosen Level, rather than being rewarded for prematurely attempting advanced tricks.
 
@@ -245,7 +271,7 @@ Count-Off Begins: ~30 Seconds (see [Round Timing And Count-Offs](#round-timing-a
 * Top Rocks: Hips and shoulders can face different directions. Higher level variations of steps and entrances are recognized.
 * Transitions: Transitions can leave the ground.
 * Footwork: Looking to be performed up on the knuckles.
-* Power Move: Power moves that rotate but do not change body orientation in relation to the ground (ex: backspin) can spin as many times as they like. All power moves that change body orientation in relation to the ground (ex: windmills, flares) are recognized up to one and a quarter revolutions. Pauses in between spins will allow more recognition.
+* Power Move: Spins on the torso (ex: backspins, booty spins) can spin as many times as they like. All other power moves (ex: windmills, flares, headspins) are recognized for one revolution. Intent decides the edge: momentum carrying a spin past one revolution is fine; continuous, controlled rotations beyond one are out of level. Pauses reset the count—each revolution after a clean stop is a new recognized move.
 * Freeze: When inverted can have two points of contact with the ground.
 * Acro: Can alternate between hands and feet.
 
@@ -274,6 +300,27 @@ Count-Off: None — Pro rounds are not counted off.
 * Power Move: No limitations
 * Freeze: Can have one point of contact
 * Acro: Acro up to one flip and two twists, in any combination
+
+### Out Of Level In Practice
+
+For coaches: out-of-level calls almost always come from three skill families—power moves, transitions, and some freezes. Here is what the Level lines mean on the floor.
+
+Power Moves:
+
+* Intro / Beginner - Essentially torso spins: booty spins and backspins. Anything spinning on hands, elbows, or head is out of level.
+* Intermediate - Every power move gets one revolution. Intent decides the edge cases: momentum carrying a headspin to a revolution and a half is fine; five controlled rotations without stopping is out of level. A clean stop resets the count—spin, freeze it, spin again, and each revolution is a new recognized move.
+* Advanced / Pro - Spin as much as you want.
+
+Transitions:
+
+* Intro / Beginner - Transitions stay in contact with the floor. Leaving the ground between positions is out of level.
+* Intermediate and up - Transitions can leave the ground.
+
+Freezes:
+
+* Intro / Beginner - Inverted freezes need 3 points of contact with the ground, max 2 stacks.
+* Intermediate - Inverted freezes can drop to 2 points of contact.
+* Advanced / Pro - Hold it on 1.
 
 ## Crew Showcase Routines And Battles
 
@@ -314,7 +361,7 @@ Performance Categories:
 * Musicality
 * Creativity
 
-All five Skill Categories are judged within the crew's Level (see [Skill Recognition](#skill-recognition)) using the rubric below. The rubric is built to reward breakers moving together: a routine of back-to-back solos scores low in the Skill Categories no matter how strong the individual skills are. Choreograph accordingly.
+All five Skill Categories are judged within the crew's Level (see [Skill Recognition](#skill-recognition)) using the rubric below. The rubric is built to reward breakers moving together: a routine of back-to-back solos scores low in the Skill Categories no matter how strong the individual skills are. Choreograph accordingly. An out-of-level skill drops the affected category to the 1.0-4.0 band (see [Out Of Level Enforcement](#out-of-level-enforcement)).
 
 | Score | Description |
 | --- | --- |
