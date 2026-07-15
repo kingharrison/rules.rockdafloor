@@ -243,7 +243,7 @@ Dancers may compete in one 1v1 Level per event. A dancer who also competes on a 
 
 Each Level is defined by a set of recognized skills. If a dancer performs skills above the Level they've registered for, judges are instructed to ignore those moves entirely. This allows dancers to focus on mastery and style within their chosen Level, rather than being rewarded for prematurely attempting advanced tricks.
 
-Advanced and Pro are the only Levels with monetary prizes, in both 1v1 and crew competition. The prize money available at Advanced must always be less than the prize money available at Pro. The Pro Level is unique in that it recognizes the professional level of breaking.
+The Pro Level is unique in that it recognizes the professional level of breaking.
 
 ### Intro
 
@@ -277,8 +277,6 @@ Count-Off Begins: ~30 Seconds (see [Round Timing And Count-Offs](#round-timing-a
 
 ### Advanced
 
-Advanced battles carry monetary prizes. Prize money at Advanced is always less than Pro (see [Levels](#levels)).
-
 Count-Off Begins: ~45 Seconds (see [Round Timing And Count-Offs](#round-timing-and-count-offs))
 
 * Top Rocks: Hips and shoulders can face different directions. Higher level variations of steps and entrances are recognized.
@@ -290,7 +288,7 @@ Count-Off Begins: ~45 Seconds (see [Round Timing And Count-Offs](#round-timing-a
 
 ### Pro
 
-The Pro Level is for athletes who have competed at a high level and are competing at events to win money. Pro carries the largest monetary prizes at an RDF battle.
+The Pro Level is for athletes who have competed at a high level in events.
 
 Count-Off: None — Pro rounds are not counted off.
 
@@ -335,8 +333,6 @@ A crew is 4 to 7 dancers. Crews with fewer than 4 or more than 7 dancers may sti
 A dancer may compete on one crew per event. Dancers who compete on a crew must compete 1v1 at the same Level as their crew, with the Intro exception noted in [Levels](#levels).
 
 Crews are split by age Division only when there are enough crews to support it; otherwise ages are combined within a Level. Levels are never combined—an Advanced crew of 5-7 year olds will never battle a Beginner crew of 5-7 year olds. When age splits are used, a crew competes in the age Division of its oldest dancer.
-
-Advanced and Pro crews battle for monetary prizes. Prize money for Advanced crews must always be less than prize money for Pro crews.
 
 ### Crew Showcase Routine Rules
 
