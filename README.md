@@ -26,7 +26,7 @@
 	- [Beginner](#beginner)
 	- [Intermediate](#intermediate)
 	- [Advanced](#advanced)
-	- [Pro](#pro)
+	- [Elite](#elite)
 	- [Out Of Level In Practice](#out-of-level-in-practice)
 - [Crew Showcase Routines And Battles](#crew-showcase-routines-and-battles)
 	- [Crew Levels And Eligibility](#crew-levels-and-eligibility)
@@ -84,11 +84,11 @@ Example: If a competitor registers for the Beginner Level and performs Air Flare
 
 #### Out Of Level Enforcement
 
-Where an out-of-level skill happens determines what it costs:
+Only Power Moves, Freezes, and Acro can be out of level (see [Levels](#levels)); Top Rocks, Transitions, and Footwork are open everywhere. Where an out-of-level skill happens determines what it costs:
 
 * Cypher Prelims - The skill is not recognized, and after the round the judges will talk with the dancer (and their coach) about moving up to the appropriate Level. This is the only warning that exists at an RDF event. A dancer who agrees to move up before brackets are announced enters the new Level as its lowest seed. Dancers locked to a crew's Level get no warning—they cannot move up, so an out-of-level skill in prelims forfeits that prelim round, which is scored a 0 and seeds the dancer last.
 * 1v1 Battles - No warning. An out-of-level skill immediately forfeits the battle, and the opponent advances.
-* Crew Showcase Routines - The category the skill was performed in (Power Moves, Transitions, Freezes, etc.) drops to the lowest rubric band: judges score that category 1.0-4.0 no matter how strong the rest of the category was.
+* Crew Showcase Routines - The category the skill was performed in drops to the lowest rubric band: judges score that category 1.0-4.0 no matter how strong the rest of the category was. An out-of-level Acro skill drops the Transitions category, since acro inside a routine functions as a transition.
 * Crew Battles - The crew forfeits that round. Judges treat the round as if the crew did not perform it.
 
 The dancer always has the choice: stay in your Level and battle with your Level's skills, or move up and use everything you've got. What you cannot do is register down and reach up.
@@ -205,7 +205,7 @@ Count-off start times:
 * Intro and Beginner battle rounds: ~20 seconds
 * Intermediate battle rounds: ~30 seconds
 * Advanced battle rounds: ~45 seconds
-* Pro battle rounds: no count-off
+* Elite battle rounds: no count-off
 * Crew battle rounds (all crew Levels): ~1 minute
 
 The count-off is a countdown from 5, called to the beat: "5" is held for four counts, "4" is held for four counts, then "3", "2", and "1" take two counts each, followed by the Battle Ref calling "FREEZE!" The FREEZE call is a moment for the dancer—hitting a clean freeze right on the call is a strong, musical way to end a round. Skills performed after the FREEZE call are not recognized.
@@ -226,7 +226,7 @@ Recommended timeline:
 
 The run of show is always the same:
 
-1. Cypher Prelims - Levels run lowest to highest (Intro, Beginner, Intermediate, Advanced, Pro). Within a Level, if the field is split into age Divisions, prelims run youngest to oldest before moving to the next Level. Division splits follow the three-tier rules in [How Divisions Split](#how-divisions-split).
+1. Cypher Prelims - Levels run lowest to highest (Intro, Beginner, Intermediate, Advanced, Elite). Within a Level, if the field is split into age Divisions, prelims run youngest to oldest before moving to the next Level. Division splits follow the three-tier rules in [How Divisions Split](#how-divisions-split).
 2. Crew Showcase Routines - Performance order is random. While showcases run, the scoring table tabulates prelim scores and builds the brackets.
 3. Bracket Announcement - Seeds and brackets are announced once the Showcase Routines are complete.
 4. Top 8 Brackets - Brackets run one stage at a time across the whole event: all Quarterfinals first, then all Semifinals, then all Third Place Battles, then all Finals. Within each stage, battles run lowest Level to highest; within a Level, youngest age Division to oldest; and where a group has multiple brackets, lowest bracket to highest (3-C, then 2-C, then 1-C). A bracket whose Quarterfinals are all byes simply skips that stage.
@@ -242,9 +242,13 @@ To support fair competition and healthy progression, dancers may choose to compe
 
 Dancers may compete in one 1v1 Level per event. A dancer who also competes on a crew must compete 1v1 at the same Level as their crew: an Advanced crew member must do Advanced breaking, and an Intermediate crew member cannot compete up to Advanced. Your whole day of dance battling is one Level—Showcase Routine, crew battles, Cypher Prelims, and 1v1 brackets all happen at the crew's Level. Crew-locked dancers cannot move Levels mid-event, by choice or by Battle Host bump; the forfeit rules in [Out Of Level Enforcement](#out-of-level-enforcement) apply instead. The one exception: an Intro-eligible dancer on a Beginner crew may still compete 1v1 in Intro.
 
-Each Level is defined by a set of recognized skills. If a dancer performs skills above the Level they've registered for, judges are instructed to ignore those moves entirely. This allows dancers to focus on mastery and style within their chosen Level, rather than being rewarded for prematurely attempting advanced tricks. Skill examples throughout this section are illustrative, not exhaustive: whether a skill is recognized comes from the rule line itself, not from whether the skill happens to be named.
+RDF has five Levels: Intro, Beginner, Intermediate, Advanced, and Elite. Levels are separated by three skill families only: Power Moves (the main one), Freezes, and Acro. Each Level's rules below cover exactly those three.
 
-The Pro Level is unique in that it recognizes the professional level of breaking.
+Top Rocks, Transitions, and Footwork are open at every Level and can never make a skill out of level. From basic Indian Steps and 6-steps to threaded footwork and aerial drops, all of it is legal everywhere—judges reward what is done well. The one edge case: a tumbling skill used as a transition (a back handspring into footwork) is governed by the Acro rules, not the Transition.
+
+If a dancer performs skills above the Level they've registered for in Power Moves, Freezes, or Acro, judges are instructed to ignore those moves entirely. This allows dancers to focus on mastery and style within their chosen Level, rather than being rewarded for prematurely attempting advanced tricks. Skill examples throughout this section are illustrative, not exhaustive: whether a skill is recognized comes from the rule line itself, not from whether the skill happens to be named.
+
+The Elite Level recognizes the highest level of breaking.
 
 ### Intro
 
@@ -256,70 +260,59 @@ Count-Off Begins: ~20 Seconds (see [Round Timing And Count-Offs](#round-timing-a
 
 Count-Off Begins: ~20 Seconds (see [Round Timing And Count-Offs](#round-timing-and-count-offs))
 
-* Top Rocks: All Top Rocks must have the hips and shoulders facing the same direction during the movement. Recognition is limited to variations of steps and entrances. (ex: Indian Steps, Side Steps, March Steps, basic rocking)
-* Transitions: All transitions must remain in contact with the ground. (ex: knee drops, corkscrews, squat drops, spin downs, cartwheels)
-* Footwork: Can be performed flat handed. (ex: 2-steps, 3-steps, 6-steps, CCs, sweeps, coffee grinders)
-* Power Move: Should maintain contact with the ground (ex: booty spins, backspins)
-	- May rotate continuously on parts of the torso
-	- May alternate between 4 points of contact with the ground
-* Freeze: If inverted must have 3 points of contact with the ground, max 2 stacks (ex: baby freezes, chair freezes, bridges, headstands)
-* Acro: Must retain physical contact with the surface at all times with no spring motion allowed
+* Power Move: Rotation on the butt or torso only, with no change of body orientation to the ground. (ex: butt spins, backspins)
+* Freeze: Must have at least 3 points of contact with the ground. (ex: baby freezes, chair freezes, bridges, headstands)
+* Acro: Must stay in contact with the ground with no spring motion—cartwheels and walkovers are in, handsprings are out. (ex: cartwheels, front and back walkovers, forward rolls)
 
 ### Intermediate
 
 Count-Off Begins: ~30 Seconds (see [Round Timing And Count-Offs](#round-timing-and-count-offs))
 
-* Top Rocks: Hips and shoulders can face different directions. Higher level variations of steps and entrances are recognized. (ex: kick crosses, salsa steps, Charlie Rocks, jerk variations)
-* Transitions: Transitions can leave the ground. (ex: coin drops, hook drops, back handsprings, front swings)
-* Footwork: Looking to be performed up on the knuckles. (ex: 6-steps up on the knuckles, half sweeps, pretzels, Around the Worlds, Frosty Freezes)
-* Power Move: Spins on the torso (ex: backspins, booty spins) can spin as many times as they like. All other power moves (ex: swipes, windmills, flares, headspins) are recognized for one revolution. Intent decides the edge: momentum carrying a spin past one revolution is fine; continuous, controlled rotations beyond one are out of level. Pauses reset the count—each revolution after a clean stop is a new recognized move.
-* Freeze: When inverted can have two points of contact with the ground. (ex: handstands, shoulder freezes, elbow freezes, turtles, head-and-hand chairs)
-* Acro: Can alternate between hands and feet.
+* Power Move: Torso spins stay unlimited (ex: butt spins, backspins). All other power moves (ex: swipes, windmills, flares, headspins) are recognized for one revolution each and cannot be connected: between power moves there must be non-power movement—footwork, a freeze, toprock—where the momentum fully stops. Intent decides the single-move edge: momentum carrying a spin past one revolution is fine; continuous, controlled rotation beyond one is out of level.
+* Freeze: Must have at least 2 points of contact with the ground. (ex: handstands, shoulder freezes, elbow freezes, turtles, head-and-hand chairs)
+* Acro: Acro may leave the ground through the hands—handsprings are legal. Free flips are not: if the rotation happens with no hands down, it is out of level. (ex: back handsprings, front handsprings, macacos)
 
 ### Advanced
 
 Count-Off Begins: ~45 Seconds (see [Round Timing And Count-Offs](#round-timing-and-count-offs))
 
-* Top Rocks: Hips and shoulders can face different directions. Higher level variations of steps and entrances are recognized. (ex: full toprock vocabulary—complex step variations, rhythm and direction changes)
-* Transitions: Transitions can leave the ground. (ex: aerial drops, jump coin drops, power step-ins)
-* Footwork: Looking to be performed up on the knuckles. (ex: full sweeps, switch-ups, threaded patterns)
-* Power Move: No limitations (ex: continuous windmills, flares, halos, headspin drills, airflares)
-* Freeze: Can have one point of contact (ex: airchairs, airbabies, one-hand freezes)
-* Acro: Acro up to one flip with no twists
+* Power Move: One power move for as many rotations as you want, OR a connected combination of power moves at one rotation each. Connecting power moves that each run multiple rotations is out of level—that is Elite. (ex: continuous windmills, headspin drills, airflares, one-rotation combos like swipe into windmill into flare)
+* Freeze: No limitations (ex: airchairs, airbabies, one-hand freezes)
+* Acro: Up to one flip with no twists (ex: back tucks, front tucks)
 
-### Pro
+### Elite
 
-The Pro Level is for athletes who have competed at a high level in events.
+The Elite Level is for athletes who have competed at a high level in events.
 
-Count-Off: None — Pro rounds are not counted off.
+Count-Off: None — Elite rounds are not counted off.
 
-* Top Rocks: Hips and shoulders can face different directions. Higher level variations of steps and entrances are recognized. (ex: full toprock vocabulary with signature style)
-* Transitions: Transitions can leave the ground. (ex: full aerial transitions)
-* Footwork: Looking to be performed up on the knuckles. (ex: threaded combinations and original patterns)
-* Power Move: No limitations (ex: airflares, elbow airflares, 2000s, full power combos)
-* Freeze: Can have one point of contact (ex: extended airchairs, hollowbacks, one-hand freeze variations)
-* Acro: Acro up to one flip and two twists, in any combination
+* Power Move: No limitations (ex: multi-rotation combos—airflares into windmills, elbow airflares, 2000s)
+* Freeze: No limitations (ex: extended airchairs, hollowbacks, one-hand freeze variations)
+* Acro: Up to one flip and two twists, in any combination (ex: full twists, double fulls)
 
 ### Out Of Level In Practice
 
-For coaches: out-of-level calls almost always come from three skill families—power moves, transitions, and some freezes. Here is what the Level lines mean on the floor.
+For coaches: only the three Level-separating families can be out of level—Power Moves, Freezes, and Acro. Top Rocks, Transitions, and Footwork never generate a call. Here is what the Level lines mean on the floor.
 
 Power Moves:
 
-* Intro / Beginner - Essentially torso spins: booty spins and backspins. Anything spinning on hands, elbows, or head is out of level.
-* Intermediate - Every power move gets one revolution. Intent decides the edge cases: momentum carrying a headspin to a revolution and a half is fine; five controlled rotations without stopping is out of level. A clean stop resets the count—spin, freeze it, spin again, and each revolution is a new recognized move.
-* Advanced / Pro - Spin as much as you want.
-
-Transitions:
-
-* Intro / Beginner - Transitions stay in contact with the floor. Leaving the ground between positions is out of level.
-* Intermediate and up - Transitions can leave the ground.
+* Intro / Beginner - Torso spins only: butt spins and backspins. Anything spinning on hands, elbows, or head is out of level.
+* Intermediate - One revolution per power move, and no connecting them—kill the momentum with footwork or a freeze between moves. Momentum carrying a headspin to a revolution and a half is fine; five controlled rotations without stopping is out of level.
+* Advanced - Go deep or go wide: one move for unlimited rotations, or a connected combo at one rotation each. Connecting multi-rotation moves together is Elite.
+* Elite - No limits.
 
 Freezes:
 
-* Intro / Beginner - Inverted freezes need 3 points of contact with the ground, max 2 stacks.
-* Intermediate - Inverted freezes can drop to 2 points of contact.
-* Advanced / Pro - Hold it on 1.
+* Intro / Beginner - At least 3 points of contact with the ground.
+* Intermediate - At least 2 points of contact with the ground.
+* Advanced / Elite - No limits—hold it on 1.
+
+Acro:
+
+* Intro / Beginner - Stay on the ground, no spring: cartwheels and walkovers are in; handsprings are out.
+* Intermediate - Spring off the hands is in, flipping is not: handsprings and macacos are in; tucks are out.
+* Advanced - One flip, zero twists.
+* Elite - One flip and up to two twists, in any combination.
 
 ## Crew Showcase Routines And Battles
 
@@ -327,7 +320,7 @@ Crew battles are one of the most exciting parts of breaking—where teamwork, cr
 
 ### Crew Levels And Eligibility
 
-For the 2026-2027 season, crews compete within skill Levels: Beginner, Intermediate, Advanced, and Pro. Each crew follows all of the skill recognition rules of its Level (see [Levels](#levels)) in both the Showcase Routine and battle rounds. Skills performed outside the crew's Level rules are not recognized.
+For the 2026-2027 season, crews compete within skill Levels: Beginner, Intermediate, Advanced, and Elite. Each crew follows all of the skill recognition rules of its Level (see [Levels](#levels)) in both the Showcase Routine and battle rounds. Skills performed outside the crew's Level rules are not recognized.
 
 A crew is 4 to 7 dancers. Crews with fewer than 4 or more than 7 dancers may still perform and be judged for feedback, but as exhibition only—exhibition crews cannot place or advance to the battle rounds.
 
@@ -358,7 +351,7 @@ Performance Categories:
 * Musicality
 * Creativity
 
-All five Skill Categories are judged within the crew's Level (see [Skill Recognition](#skill-recognition)) using the rubric below. The rubric is built to reward breakers moving together: a routine of back-to-back solos scores low in the Skill Categories no matter how strong the individual skills are. Choreograph accordingly. An out-of-level skill drops the affected category to the 1.0-4.0 band (see [Out Of Level Enforcement](#out-of-level-enforcement)).
+Power Moves and Freezes are judged within the crew's Level; Footwork, Transitions, and Top Rocks are open at every Level (see [Levels](#levels)). All five Skill Categories use the rubric below. The rubric is built to reward breakers moving together: a routine of back-to-back solos scores low in the Skill Categories no matter how strong the individual skills are. Choreograph accordingly. An out-of-level skill drops the affected category to the 1.0-4.0 band (see [Out Of Level Enforcement](#out-of-level-enforcement)).
 
 | Score | Description |
 | --- | --- |
@@ -407,6 +400,7 @@ These are the definitions the rules and the judges use. When a rule says inverte
 | Term | Definition |
 | --- | --- |
 | 6-Step | The foundational footwork pattern: six counts circling the legs around the body while the hands post on the floor. |
+| Acro | Tumbling: gymnastics-style skills—cartwheels, handsprings, saltos, twists. One of the three skill families that separate Levels. |
 | Airborne | No part of the body is in contact with the ground. |
 | Airflare | An airborne power move: continuous flares with a flight phase between hand contacts. |
 | Around The World | A footwork pattern where the legs travel a full circle around the dancer's base. |
@@ -424,24 +418,25 @@ These are the definitions the rules and the judges use. When a rule says inverte
 | Headspin | A spin balanced on the head. |
 | Headstand | An inverted balance on the head with both hands assisting—3 points of contact. |
 | Indian Step | The foundational toprock step: alternating cross-steps in front with the hips and shoulders square. |
-| Inverted | Upside down: the hips are above the head. The freeze rules for each Level count points of contact only when a freeze is inverted. |
+| Inverted | Upside down: the hips are above the head. |
 | Kick Cross | A toprock variation: a kick out followed by a cross-step. |
-| On The Knuckles | Supporting weight on closed fists instead of flat palms during footwork. The footwork standard from Intermediate up. |
+| On The Knuckles | Supporting weight on closed fists instead of flat palms during footwork. A marker of developed footwork—judged on quality, never required by a Level. |
 | Powermove | A momentum-driven skill where the body spins or rotates continuously on the hands, head, back, or shoulders—windmills, flares, headspins, backspins. |
 | Prone | Face-down: the chest faces the ground. |
 | Push Whip | Generating rotation by pushing off the hands while whipping the hips and legs over the body—the drive mechanic behind swipes. |
 | Rotate | Any turning of the body around an axis. Spins, saltos, windmills, and swipes are all rotation; the Level rules define how much rotation is recognized. |
 | Salsa Step | A toprock variation borrowing salsa's side-step and hip twist. |
 | Salto | An airborne flip: rotation over the body's side-to-side axis, forward or backward. Governed by the Acro line of each Level. |
-| Spin | Continuous rotation around the body's head-to-toe axis while on a point of contact—booty spins, backspins, headspins. |
+| Spin | Continuous rotation around the body's head-to-toe axis while on a point of contact—butt spins, backspins, headspins. |
 | Stack | Linking one freeze directly into another without coming down; each held position counts as one stack. |
 | Supine | Face-up: the back faces the ground. |
 | Swipe | A power move where the upper body twists and the hands whip the body over as the legs swing around—one full rotation per swipe, driven by the push whip. |
 | Table Top | A face-up position supported on the hands and feet with the hips lifted and the torso flat. |
 | To The Ground | The get-down: the transition that takes the dance from upright toprock to the floor. |
 | Toprock | The upright, standing portion of the dance—steps, entrances, and character performed before going to the ground. |
-| Transition | Any movement that connects the elements—toprock into footwork, footwork into power, power into a freeze. Each Level defines whether transitions may leave the ground. |
+| Transition | Any movement that connects the elements—toprock into footwork, footwork into power, power into a freeze. Transitions are open at every Level; a tumbling skill used as a transition is governed by the Acro rules. |
 | Turtle | A horizontal balance on stabbed elbows with the body held flat over the hands. |
 | Upright | Standing orientation: the head is above the hips, feet toward the ground. |
+| Walkover | A slow, controlled acro rotation over the hands—front or back—with the body always in contact with the ground through the hands or feet; no spring. |
 | Windmill | A power move rolling continuously across the upper back and shoulders while the legs trace wide circles. |
 | Zero Position | The neutral crouched base on the floor—weight balanced, hands ready—that footwork and transitions launch from and return to. |
