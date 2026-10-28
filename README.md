@@ -242,6 +242,8 @@ To support fair competition and healthy progression, dancers may choose to compe
 
 Dancers may compete in one 1v1 Level per event. A dancer who also competes on a crew must compete 1v1 at the same Level as their crew: an Advanced crew member must do Advanced breaking, and an Intermediate crew member cannot compete up to Advanced. Your whole day of dance battling is one Level—Showcase Routine, crew battles, Cypher Prelims, and 1v1 brackets all happen at the crew's Level. Crew-locked dancers cannot move Levels mid-event, by choice or by Battle Host bump; the forfeit rules in [Out Of Level Enforcement](#out-of-level-enforcement) apply instead. The one exception: an Intro-eligible dancer on a Beginner crew may still compete 1v1 in Intro.
 
+**NOTE** The levels are not a limit on creativity or a requirement on how a dancer is 'supposed' to win. It is all up to the judges opinion, knowledge, and expertise and the individual dancers interpretation of the music to determine the winner of a round or the score routine. The levels are an assistance to help make sure dancers are competing with other dancers of similar ability. 
+
 RDF has five Levels: Intro, Beginner, Intermediate, Advanced, and Elite. Levels are separated by three skill families only: Power Moves (the main one), Freezes, and Acro. Each Level's rules below cover exactly those three.
 
 Top Rocks, Transitions, and Footwork are open at every Level and can never make a skill out of level. From basic Indian Steps and 6-steps to threaded footwork and aerial drops, all of it is legal everywhere—judges reward what is done well. The one edge case: a tumbling skill used as a transition (a back handspring into footwork) is governed by the Acro rules, not the Transition.
