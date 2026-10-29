@@ -86,10 +86,10 @@ Example: If a competitor registers for the Beginner Level and performs Air Flare
 
 Only Power Moves, Freezes, and Acro can be out of level (see [Levels](#levels)); Top Rocks, Transitions, and Footwork are open everywhere. Where an out-of-level skill happens determines what it costs:
 
-* Cypher Prelims - The skill is not recognized, and after the round the judges will talk with the dancer (and their coach) about moving up to the appropriate Level. This is the only warning that exists at an RDF event. A dancer who agrees to move up before brackets are announced enters the new Level as its lowest seed. Dancers locked to a crew's Level get no warning—they cannot move up, so an out-of-level skill in prelims forfeits that prelim round, which is scored a 0 and seeds the dancer last.
-* 1v1 Battles - No warning. An out-of-level skill immediately forfeits the battle, and the opponent advances.
+* Cypher Prelims - The skill is not recognized, and after the round the judges will talk with the dancer (and their coach) about moving up to the appropriate Level. This is the only warning that exists at an RDF event. A dancer who agrees to move up before brackets are announced enters the new Level as its lowest seed. 
+* 1v1 Battles - The skill is not recognized.
 * Crew Showcase Routines - The category the skill was performed in drops to the lowest rubric band: judges score that category 1.0-4.0 no matter how strong the rest of the category was. An out-of-level Acro skill drops the Transitions category, since acro inside a routine functions as a transition.
-* Crew Battles - The crew forfeits that round. Judges treat the round as if the crew did not perform it.
+* Crew Battles - TThe skill is not recognized for that round. Judges treat the round as if the crew did not perform it.
 
 The dancer always has the choice: stay in your Level and battle with your Level's skills, or move up and use everything you've got. What you cannot do is register down and reach up.
 
